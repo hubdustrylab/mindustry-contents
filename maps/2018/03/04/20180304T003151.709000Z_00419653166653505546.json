@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "collection": "maps",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "416719902641225732",
+    "channel_id": "416719902641225732",
+    "message_id": "419653166653505546",
+    "url": "https://discord.com/channels/391020510269669376/416719902641225732/419653166653505546",
+    "timestamp_raw": "2018-03-04T00:31:51.709000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2018-03-04T00:31:51.709000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:47.849444Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:47.970220Z",
+  "revision": {
+    "time": "2018-03-04T00:31:51.709000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "416913379584901120",
+      "name": "DigitalGwapo",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/icon_url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "Lava_zone.png",
+        "color": 16430178,
+        "author": {
+          "name": "DigitalGwapo"
+        },
+        "footer": {
+          "text": "[Reserachers wanted to study more about Volcanos,they only know little about what's going on inside it.\nThey created Bots and Ships want were immune to heat,some had guns,some move fast.\nEach had a camera and a person controlling the Bot/Ship,\"Mission is a success\" they thought.\nThe system was corrupted by a virus called \"B21\",it was known to be one of the most lethal viruses in the world.\nMany Bots/Ships were corrupted and attacked the remining ones that were not corrupted.\nDr.Handerson Invented a Machine called Core and was going inside the volcano to help the ones that were not corrupted.\nThe Core can hold infinite ores and had it's two stone drills for starters.\n\nAnd that's where your story starts,Play now and see how long you survived survive The Lava Zone.]"
+        },
+        "image": {
+          "width": 256,
+          "height": 256,
+          "url": "https://cdn.discordapp.com/attachments/393111111853146112/419653160014053377/lava_zone.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf8"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddea"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udde8"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf4"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf3"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udde9"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240940537217064",
+          "name": "unitdagger"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240940600655883",
+          "name": "unitarkyid"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240942055948338",
+          "name": "unitaegires"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240942086094848",
+          "name": "unitsei"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240941657620536",
+          "name": "unitcorvus"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240940852052050",
+          "name": "unitbryde"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240942164607026",
+          "name": "unitoct"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240941284589578",
+          "name": "unitnova"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240940491079712",
+          "name": "unitantumbra"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240941670465576",
+          "name": "unitreign"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240939468455957",
+          "name": "unitfortress"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240940319637564",
+          "name": "unitzenith"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "632782871052156928",
+          "name": "spectre"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240941653164084",
+          "name": "unitquad"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "map",
+      "format": "png",
+      "original_name": "lava_zone.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/393111111853146112/419653160014053377/lava_zone.png",
+        "media_channel_id": "393111111853146112",
+        "attachment_id": "419653160014053377",
+        "width": 256,
+        "height": 256
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
