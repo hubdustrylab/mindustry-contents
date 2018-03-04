@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "collection": "maps",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "416719902641225732",
+    "channel_id": "416719902641225732",
+    "message_id": "419727288825806849",
+    "url": "https://discord.com/channels/391020510269669376/416719902641225732/419727288825806849",
+    "timestamp_raw": "2018-03-04T05:26:23.812000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2018-03-04T05:26:23.812000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.070023Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:48.130719Z",
+  "revision": {
+    "time": "2018-03-04T05:26:23.812000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "409664421821153291",
+      "name": "Banana \u25ba\u019ds\u25c4",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/icon_url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "challengers_of_the_river.png",
+        "color": 16430178,
+        "author": {
+          "name": "Banana \u25ba\u019ds\u25c4"
+        },
+        "footer": {
+          "text": "As your robotic tribe flee the mountains from the enemies you set up a temporary core containing all your robotic friends' memories, but trouble strikes as enemies see you from the nearby caves and start to attack you! Can you survive the menacing enemies? Or will your tribe perish from the enemies???!"
+        },
+        "image": {
+          "width": 256,
+          "height": 256,
+          "url": "https://cdn.discordapp.com/attachments/393111111853146112/419727285533409280/challengers_of_the_river.png"
+        }
+      }
+    ],
+    "components": []
+  },
+  "files": [
+    {
+      "role": "map",
+      "format": "png",
+      "original_name": "challengers_of_the_river.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/393111111853146112/419727285533409280/challengers_of_the_river.png",
+        "media_channel_id": "393111111853146112",
+        "attachment_id": "419727285533409280",
+        "width": 256,
+        "height": 256
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
