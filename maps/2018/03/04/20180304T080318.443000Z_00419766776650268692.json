@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "collection": "maps",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "416719902641225732",
+    "channel_id": "416719902641225732",
+    "message_id": "419766776650268692",
+    "url": "https://discord.com/channels/391020510269669376/416719902641225732/419766776650268692",
+    "timestamp_raw": "2018-03-04T08:03:18.443000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2018-03-04T08:03:18.443000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:19:18.541112Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:19:18.612836Z",
+  "revision": {
+    "time": "2018-03-04T08:03:18.443000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "381163309396918323",
+      "name": "CaptChaos",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/icon_url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "In",
+        "color": 16430178,
+        "author": {
+          "name": "CaptChaos"
+        },
+        "footer": {
+          "text": "a far off dimension of in the grasslands of BIOS lives  evils far beyond Knowing....the area rich with many valuable goods continues to bring unsuspecting miners but under green lies a dark secret?.. <@207805641392128001>  alternate dimension"
+        },
+        "image": {
+          "width": 256,
+          "height": 256,
+          "url": "https://cdn.discordapp.com/attachments/393111111853146112/419766770237308928/Grasshopper.png"
+        }
+      }
+    ],
+    "components": []
+  },
+  "files": [
+    {
+      "role": "map",
+      "format": "png",
+      "original_name": "Grasshopper.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/393111111853146112/419766770237308928/Grasshopper.png",
+        "media_channel_id": "393111111853146112",
+        "attachment_id": "419766770237308928",
+        "width": 256,
+        "height": 256
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true
+      }
+    }
+  ]
+}
