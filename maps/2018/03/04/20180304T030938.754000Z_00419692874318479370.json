@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "collection": "maps",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "416719902641225732",
+    "channel_id": "416719902641225732",
+    "message_id": "419692874318479370",
+    "url": "https://discord.com/channels/391020510269669376/416719902641225732/419692874318479370",
+    "timestamp_raw": "2018-03-04T03:09:38.754000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2018-03-04T03:09:38.754000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:47.976754Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:48.063444Z",
+  "revision": {
+    "time": "2018-03-04T03:09:38.754000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "228328973883539456",
+      "name": "Replicator",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/icon_url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "Planet",
+        "color": 16430178,
+        "author": {
+          "name": "Replicator"
+        },
+        "footer": {
+          "text": "PX917 As part of a trial to see if a quick setup human colony SGC designed, you were sent here to prepare it, but the locals weren't entirely friendly..."
+        },
+        "image": {
+          "width": 256,
+          "height": 256,
+          "url": "https://cdn.discordapp.com/attachments/414179246693679124/419692867947200512/The-Underlands.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": "770045449788457000",
+          "name": "slag"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "761234659715055666",
+          "name": "Item_Infinity_Catalyst",
+          "animated": true
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "map",
+      "format": "png",
+      "original_name": "The-Underlands.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/414179246693679124/419692867947200512/The-Underlands.png",
+        "media_channel_id": "414179246693679124",
+        "attachment_id": "419692867947200512",
+        "width": 256,
+        "height": 256
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
