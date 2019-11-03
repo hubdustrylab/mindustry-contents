@@ -19,10 +19,10 @@
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T15:24:31.480996Z",
+  "archived_at": "2026-11-12T15:42:47.085356Z",
   "revision": {
-    "time": "2026-11-12T15:24:31.433213Z",
-    "basis": "observed_at"
+    "time": "2019-11-03T17:46:16.523000Z",
+    "basis": "published_at"
   },
   "attribution": [
     {
@@ -308,16 +308,35 @@
         "attachment_id": "640607695065579530",
         "declared_bytes": 41
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T174616.523000Z_00640607695501656105_001_router.msch",
+      "bytes": 41,
+      "sha256": "ffc3a558f4c36403afb9b4fd061fbdbce61c120412dd84621f671b69bf8656fc",
       "metadata": {
-        "status": "not_read",
-        "reason": "http_error",
-        "http_status": 403,
-        "signed_url": true,
-        "url_expired": false
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "router"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 1,
+        "height_tiles": 1,
+        "block_records": 1,
+        "block_counts": {
+          "router": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T174616.523000Z_00640607695501656105_001_router.msch.metadata.json.gz",
+        "bytes": 538,
+        "sha256": "f800bd14746a19922adedf68878fc1b69f377ba8d31db6854002ba73f4459902"
       }
     },
     {
