@@ -19,10 +19,10 @@
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T15:24:32.379334Z",
+  "archived_at": "2026-11-12T15:42:47.085356Z",
   "revision": {
-    "time": "2026-11-12T15:24:32.342241Z",
-    "basis": "observed_at"
+    "time": "2019-11-03T17:55:52.565000Z",
+    "basis": "published_at"
   },
   "attribution": [
     {
@@ -220,16 +220,60 @@
         "attachment_id": "640610111118639104",
         "declared_bytes": 1200
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T175552.565000Z_00640610111597051904_001_f682089f2e2d8e55.msch",
+      "bytes": 1200,
+      "sha256": "19145b421919555456332098291c5d2f5b086a9f0b0515f89b93efdc0e2cfd8d",
       "metadata": {
-        "status": "not_read",
-        "reason": "http_error",
-        "http_status": 403,
-        "signed_url": true,
-        "url_expired": false
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "\u0437\u0430\u0432\u043e\u0434 \u0432\u0441\u0435\u0433\u043e \u0438 \u0432\u0441\u044f"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 22,
+        "height_tiles": 27,
+        "block_records": 294,
+        "block_counts": {
+          "titanium-conveyor": 140,
+          "separator": 6,
+          "pulse-conduit": 16,
+          "melter": 6,
+          "water-extractor": 4,
+          "pulverizer": 6,
+          "distributor": 2,
+          "oil-extractor": 2,
+          "router": 12,
+          "liquid-router": 5,
+          "power-node": 6,
+          "power-source": 1,
+          "plastanium-compressor": 1,
+          "armored-conveyor": 40,
+          "junction": 24,
+          "conveyor": 1,
+          "alloy-smelter": 1,
+          "vault": 1,
+          "inverted-sorter": 5,
+          "overflow-gate": 2,
+          "silicon-smelter": 4,
+          "duo": 2,
+          "liquid-junction": 1,
+          "kiln": 1,
+          "coal-centrifuge": 4,
+          "pyratite-mixer": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T175552.565000Z_00640610111597051904_001_f682089f2e2d8e55.msch.metadata.json.gz",
+        "bytes": 3767,
+        "sha256": "f9f2d64f8cff129fdc883de4f932b1219357c0a779b8024542b618c6b95d6dac"
       }
     },
     {
