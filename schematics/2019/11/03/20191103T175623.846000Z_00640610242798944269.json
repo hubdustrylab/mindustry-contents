@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640610242798944269",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640610242798944269",
+    "timestamp_raw": "2019-11-03T17:56:23.846000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T17:56:23.846000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.849631Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:48.975834Z",
+  "revision": {
+    "time": "2019-11-03T17:56:23.846000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "356028286872059906",
+      "name": "hacso",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640610242119598081",
+        "filename": "8x_.msch",
+        "size": 840,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640610242119598081/8x_.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "8x \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u044b\u0435",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>1209  <:lead:597478221939867648>6049  <:metaglass:640604427807359006>2064  <:graphite:632785243170144296>3932  <:titanium:632785242851377163>1495  <:thorium:597478221793067020>800  <:silicon:597478221864501273>3525  <:plastanium:632785242805239810>30  <:surgealloy:632785242788200461>2000",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "hacso"
+        },
+        "image": {
+          "width": 960,
+          "height": 640,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640610242119598082/img_e978b1cc-505f-409c-bb04-b04c57adc7e8.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udd97"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "1134955384839352321",
+          "name": "ranaismug"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "8x_.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640610242119598081/8x_.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640610242119598081",
+        "declared_bytes": 840
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_e978b1cc-505f-409c-bb04-b04c57adc7e8.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640610242119598082/img_e978b1cc-505f-409c-bb04-b04c57adc7e8.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640610242119598082",
+        "width": 960,
+        "height": 640
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
