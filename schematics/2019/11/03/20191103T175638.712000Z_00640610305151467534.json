@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640610305151467534",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640610305151467534",
+    "timestamp_raw": "2019-11-03T17:56:38.712000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T17:56:38.712000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:02:56.177869Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2019-11-03T17:56:38.712000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "356028286872059906",
+      "name": "hacso",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640610303683592228",
+        "filename": "12x_.msch",
+        "size": 911,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640610303683592228/12x_.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "12x \u0434\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>2172  <:lead:597478221939867648>3460  <:metaglass:640604427807359006>624  <:graphite:632785243170144296>680  <:titanium:632785242851377163>1384  <:silicon:597478221864501273>1316  <:phasefabric:632785242809303071>40",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "hacso"
+        },
+        "image": {
+          "width": 608,
+          "height": 768,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640610303683592231/img_3491bcc7-60d0-49d5-864f-cb433db132a5.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude33"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "1134955384839352321",
+          "name": "ranaismug"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "12x_.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640610303683592228/12x_.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640610303683592228",
+        "declared_bytes": 911
+      },
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T175638.712000Z_00640610305151467534_001_12x.msch",
+      "bytes": 911,
+      "sha256": "c571073c4ce138ce21a9e5178585fae832f95b123e2c2684f804e6baa7733434",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "12x \u0434\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 19,
+        "height_tiles": 24,
+        "block_records": 212,
+        "block_counts": {
+          "item-source": 8,
+          "battery": 27,
+          "water-extractor": 24,
+          "titanium-conveyor": 16,
+          "junction": 18,
+          "router": 10,
+          "bridge-conveyor": 36,
+          "pulse-conduit": 24,
+          "phase-conveyor": 8,
+          "pyratite-mixer": 8,
+          "cryofluidmixer": 12,
+          "sorter": 7,
+          "power-node": 2,
+          "differential-generator": 12
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T175638.712000Z_00640610305151467534_001_12x.msch.metadata.json.gz",
+        "bytes": 2969,
+        "sha256": "f13f358810eba155653d366fdda0002bee9160573a8d5376e4f72daff0b3de6d"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_3491bcc7-60d0-49d5-864f-cb433db132a5.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640610303683592231/img_3491bcc7-60d0-49d5-864f-cb433db132a5.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640610303683592231",
+        "width": 608,
+        "height": 768
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
