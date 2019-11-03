@@ -19,10 +19,10 @@
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T15:24:32.759955Z",
+  "archived_at": "2026-11-12T15:42:47.085356Z",
   "revision": {
-    "time": "2026-11-12T15:24:32.704884Z",
-    "basis": "observed_at"
+    "time": "2019-11-03T17:56:23.846000Z",
+    "basis": "published_at"
   },
   "attribution": [
     {
@@ -121,16 +121,53 @@
         "attachment_id": "640610242119598081",
         "declared_bytes": 840
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T175623.846000Z_00640610242798944269_001_8x.msch",
+      "bytes": 840,
+      "sha256": "027fc8ffc4108959db27a02c7ebea23377a8dce8cf5fe37c666c8d09ffaa95e4",
       "metadata": {
-        "status": "not_read",
-        "reason": "http_error",
-        "http_status": 403,
-        "signed_url": true,
-        "url_expired": false
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "8x \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u044b\u0435"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 30,
+        "height_tiles": 20,
+        "block_records": 163,
+        "block_counts": {
+          "titanium-conveyor": 25,
+          "unloader": 15,
+          "container": 3,
+          "water-extractor": 28,
+          "junction": 4,
+          "pyratite-mixer": 6,
+          "sorter": 4,
+          "bridge-conduit": 8,
+          "power-node": 6,
+          "cultivator": 8,
+          "blast-mixer": 6,
+          "impact-reactor": 8,
+          "cryofluidmixer": 10,
+          "bridge-conveyor": 19,
+          "solar-panel": 8,
+          "overdrive-projector": 1,
+          "overflow-gate": 1,
+          "router": 2,
+          "liquid-source": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T175623.846000Z_00640610242798944269_001_8x.msch.metadata.json.gz",
+        "bytes": 2694,
+        "sha256": "80d538e4e98115fdeccf2c2232d8a486310898563e16878e2936300236d4b4af"
       }
     },
     {
