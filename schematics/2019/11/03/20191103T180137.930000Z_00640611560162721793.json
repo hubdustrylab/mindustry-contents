@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640611560162721793",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640611560162721793",
+    "timestamp_raw": "2019-11-03T18:01:37.930000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T18:01:37.930000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:02:58.123438Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2019-11-03T18:01:37.930000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "429180457515745291",
+      "name": "TrinityXyz",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640611560162721792",
+        "filename": "egg_multipress_block.msch",
+        "size": 248,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640611560162721792/egg_multipress_block.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "egg multipress block",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>174  <:lead:597478221939867648>698  <:graphite:632785243170144296>300  <:titanium:632785242851377163>404  <:silicon:597478221864501273>100",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "TrinityXyz"
+        },
+        "image": {
+          "width": 288,
+          "height": 384,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640611559500152834/img_9283eedf-fdbd-42e4-b31d-777d8e399edb.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udcaf"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83e\udd5a"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        }
+      },
+      {
+        "emoji": {
+          "id": "597478221864501273",
+          "name": "silicon"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "1134955384839352321",
+          "name": "ranaismug"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "egg_multipress_block.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640611560162721792/egg_multipress_block.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640611560162721792",
+        "declared_bytes": 248
+      },
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T180137.930000Z_00640611560162721793_001_egg-multipress-block.msch",
+      "bytes": 248,
+      "sha256": "d040f3dd6a5d51fefdc1471c02d15425a38114cc895f4422fee3e0cf7704bcbe",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "egg multipress block"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 9,
+        "height_tiles": 12,
+        "block_records": 32,
+        "block_counts": {
+          "bridge-conveyor": 6,
+          "battery": 9,
+          "multi-press": 4,
+          "water-extractor": 4,
+          "sorter": 4,
+          "titanium-conveyor": 4,
+          "inverted-sorter": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T180137.930000Z_00640611560162721793_001_egg-multipress-block.msch.metadata.json.gz",
+        "bytes": 1053,
+        "sha256": "fc10b74a0a4158470b66c6949af020f4259f5f6a2b6a7ffdd77f859cf6c5dff9"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_9283eedf-fdbd-42e4-b31d-777d8e399edb.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640611559500152834/img_9283eedf-fdbd-42e4-b31d-777d8e399edb.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640611559500152834",
+        "width": 288,
+        "height": 384
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
