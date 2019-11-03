@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640608430003978269",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640608430003978269",
+    "timestamp_raw": "2019-11-03T17:49:11.642Z",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T17:49:11.642000Z",
+    "edited_at": null,
+    "submitted_at": null,
+    "observed_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T14:29:40.616400Z",
+  "revision": {
+    "time": "2019-11-03T17:49:11.642000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "243119545500434432",
+      "name": "Brachydios",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author"
+    }
+  ],
+  "message": {
+    "embeds": [
+      {
+        "author": {
+          "name": "Brachydios"
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "spectr_opwall.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "attachment_id": "640608430003978268",
+        "media_channel_id": "640604827344306207",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978268/spectr_opwall.msch"
+      },
+      "availability": "stored",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "spectr opwall"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 24,
+        "height_tiles": 12,
+        "block_records": 68,
+        "block_counts": {
+          "bridge-conduit": 2,
+          "titanium-conveyor": 5,
+          "spectre": 8,
+          "router": 2,
+          "phase-conveyor": 8,
+          "power-node": 3,
+          "bridge-conveyor": 4,
+          "pulse-conduit": 4,
+          "liquid-tank": 2,
+          "phase-conduit": 2,
+          "mend-projector": 3,
+          "repair-point": 1,
+          "armored-conveyor": 4,
+          "overdrive-projector": 1,
+          "plastanium-wall-large": 5,
+          "plastanium-wall": 2,
+          "surge-wall-large": 6,
+          "phase-wall-large": 6
+        }
+      },
+      "path": "schematics/2019/11/03/20191103T174911.642000Z_00640608430003978269_001_spectr-opwall.msch",
+      "bytes": 456,
+      "sha256": "10e3a433d036313484dfd42044bb73761b94d4d5792048937ff12703c62649bd",
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T174911.642000Z_00640608430003978269_001_spectr-opwall.msch.metadata.json.gz",
+        "bytes": 1648,
+        "sha256": "6907fde68425b09fb9368a37c2f06248f4ecc279a6209cab5a95a51a9381959e"
+      }
+    }
+  ]
+}
