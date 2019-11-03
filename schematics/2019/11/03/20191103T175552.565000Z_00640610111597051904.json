@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640610111597051904",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640610111597051904",
+    "timestamp_raw": "2019-11-03T17:55:52.565000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T17:55:52.565000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.729986Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:48.840290Z",
+  "revision": {
+    "time": "2019-11-03T17:55:52.565000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "354476778724524033",
+      "name": "Vozdyx",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640610111118639104",
+        "filename": "f682089f2e2d8e55.msch",
+        "size": 1200,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640610111118639104/f682089f2e2d8e55.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "\u0437\u0430\u0432\u043e\u0434 \u0432\u0441\u0435\u0433\u043e \u0438 \u0432\u0441\u044f",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>1473  <:lead:597478221939867648>1320  <:metaglass:640604427807359006>68  <:graphite:632785243170144296>992  <:titanium:632785242851377163>732  <:thorium:597478221793067020>465  <:silicon:597478221864501273>310",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "Vozdyx"
+        },
+        "image": {
+          "width": 704,
+          "height": 864,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640610111118639105/img_a634b1a9-f0e2-4cfd-a14d-1d6185067faa.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf7\ud83c\uddfa"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        }
+      },
+      {
+        "emoji": {
+          "id": "852981626212450314",
+          "name": "statusshocked"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      },
+      {
+        "emoji": {
+          "id": "827536618293821490",
+          "name": "ohno"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udde6"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udded"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2653"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "597477433251332201",
+          "name": "conduitup"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": "597474727648428032",
+          "name": "conveyorup"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83e\ude9c"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udeae"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "1134955384839352321",
+          "name": "ranaismug"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "f682089f2e2d8e55.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640610111118639104/f682089f2e2d8e55.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640610111118639104",
+        "declared_bytes": 1200
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_a634b1a9-f0e2-4cfd-a14d-1d6185067faa.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640610111118639105/img_a634b1a9-f0e2-4cfd-a14d-1d6185067faa.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640610111118639105",
+        "width": 704,
+        "height": 864
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
