@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640606648594858037",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640606648594858037",
+    "timestamp_raw": "2019-11-03T17:42:06.921000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T17:42:06.921000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.211993Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:48.431948Z",
+  "revision": {
+    "time": "2019-11-03T17:42:06.921000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "123539225919488000",
+      "name": "Anuke",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640606648594858036",
+        "filename": "literally_a_single_conveyor.msch",
+        "size": 64,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640606648594858036/literally_a_single_conveyor.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "literally a single conveyor",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>1",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "Anuke"
+        },
+        "image": {
+          "width": 32,
+          "height": 32,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640606648594858033/img_58a4060f-5852-4f4f-a210-ca400d10d4f8.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udde9"
+        },
+        "count": 30,
+        "count_details": {
+          "burst": 0,
+          "normal": 30
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u24c2"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udde6"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf3"
+        },
+        "count": 32,
+        "count_details": {
+          "burst": 0,
+          "normal": 32
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udd70"
+        },
+        "count": 25,
+        "count_details": {
+          "burst": 0,
+          "normal": 25
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf2"
+        },
+        "count": 24,
+        "count_details": {
+          "burst": 0,
+          "normal": 24
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4c"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udcaf"
+        },
+        "count": 24,
+        "count_details": {
+          "burst": 0,
+          "normal": 24
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddf8\ud83c\uddea"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude02"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udf89"
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        }
+      },
+      {
+        "emoji": {
+          "id": "597473918277648385",
+          "name": "router"
+        },
+        "count": 37,
+        "count_details": {
+          "burst": 0,
+          "normal": 37
+        }
+      },
+      {
+        "emoji": {
+          "id": "597478221793067020",
+          "name": "thorium"
+        },
+        "count": 16,
+        "count_details": {
+          "burst": 0,
+          "normal": 16
+        }
+      },
+      {
+        "emoji": {
+          "id": "597488183026122802",
+          "name": "alpha"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        }
+      },
+      {
+        "emoji": {
+          "id": "405044014497136643",
+          "name": "GWskaipSmile"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        }
+      },
+      {
+        "emoji": {
+          "id": "597478222141325362",
+          "name": "copper"
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        }
+      },
+      {
+        "emoji": {
+          "id": "637449230121959454",
+          "name": "immaputinher"
+        },
+        "count": 28,
+        "count_details": {
+          "burst": 0,
+          "normal": 28
+        }
+      },
+      {
+        "emoji": {
+          "id": "637447030129557515",
+          "name": "1421_OruDed"
+        },
+        "count": 25,
+        "count_details": {
+          "burst": 0,
+          "normal": 25
+        }
+      },
+      {
+        "emoji": {
+          "id": "597474443127816205",
+          "name": "conveyor"
+        },
+        "count": 74,
+        "count_details": {
+          "burst": 0,
+          "normal": 74
+        }
+      },
+      {
+        "emoji": {
+          "id": "597477759689687040",
+          "name": "ohno"
+        },
+        "count": 31,
+        "count_details": {
+          "burst": 0,
+          "normal": 31
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "literally_a_single_conveyor.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640606648594858036/literally_a_single_conveyor.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640606648594858036",
+        "declared_bytes": 64
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_58a4060f-5852-4f4f-a210-ca400d10d4f8.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640606648594858033/img_58a4060f-5852-4f4f-a210-ca400d10d4f8.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640606648594858033",
+        "width": 32,
+        "height": 32
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
