@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640612358644957196",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640612358644957196",
+    "timestamp_raw": "2019-11-03T18:04:48.303000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T18:04:48.303000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:02:58.736171Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2019-11-03T18:04:48.303000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "429180457515745291",
+      "name": "TrinityXyz",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640612358644957195",
+        "filename": "Cyclipple_defense_block.msch",
+        "size": 173,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640612358644957195/Cyclipple_defense_block.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "Cyclipple defense block",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>709  <:lead:597478221939867648>109  <:graphite:632785243170144296>270  <:titanium:632785242851377163>575  <:silicon:597478221864501273>130  <:plastanium:632785242805239810>160",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "TrinityXyz"
+        },
+        "image": {
+          "width": 256,
+          "height": 224,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640612358644957194/img_41edcf73-b904-459c-b066-0e262581e9c6.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u274c"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "Cyclipple_defense_block.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640612358644957195/Cyclipple_defense_block.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640612358644957195",
+        "declared_bytes": 173
+      },
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T180448.303000Z_00640612358644957196_001_cyclipple-defense-block.msch",
+      "bytes": 173,
+      "sha256": "2c8ed3ea5d194fc930ddda74982043df79644a6593a8034d0db0b328c9e2b639",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "Cyclipple defense block"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 8,
+        "height_tiles": 7,
+        "block_records": 15,
+        "block_counts": {
+          "titanium-conveyor": 5,
+          "ripple": 2,
+          "cyclone": 2,
+          "container": 1,
+          "unloader": 3,
+          "distributor": 1,
+          "mend-projector": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T180448.303000Z_00640612358644957196_001_cyclipple-defense-block.msch.metadata.json.gz",
+        "bytes": 862,
+        "sha256": "537fcd889f5dd11b60b6a50e980adf31c24534f52f3383d9dce99f0c905e17c9"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_41edcf73-b904-459c-b066-0e262581e9c6.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640612358644957194/img_41edcf73-b904-459c-b066-0e262581e9c6.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640612358644957194",
+        "width": 256,
+        "height": 224
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
