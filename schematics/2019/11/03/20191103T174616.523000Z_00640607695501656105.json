@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "640607695501656105",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/640607695501656105",
+    "timestamp_raw": "2019-11-03T17:46:16.523000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2019-11-03T17:46:16.523000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.438951Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "bot",
+      "id": "414138479627468811",
+      "name": "Ranai"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:48.599412Z",
+  "revision": {
+    "time": "2019-11-03T17:46:16.523000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "139095725110722560",
+      "name": "amione",
+      "basis": "relay_avatar",
+      "pointer": "/embeds/0/author/url"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640607695065579530",
+        "filename": "router.msch",
+        "size": 41,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640607695065579530/router.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "router",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>3",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "amione"
+        },
+        "image": {
+          "width": 32,
+          "height": 32,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640607695065579531/img_2bd2c348-cbad-4303-937a-d523ed316405.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude02"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udca9"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": "597473918277648385",
+          "name": "router"
+        },
+        "count": 90,
+        "count_details": {
+          "burst": 0,
+          "normal": 90
+        }
+      },
+      {
+        "emoji": {
+          "id": "597477759689687040",
+          "name": "ohno"
+        },
+        "count": 37,
+        "count_details": {
+          "burst": 0,
+          "normal": 37
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434073145476",
+          "name": "unitarkyid"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434286923786",
+          "name": "unitreign"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "770045449788588082",
+          "name": "water"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434203168858",
+          "name": "unitquasar"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "597477433167314979",
+          "name": "wall"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434190585856",
+          "name": "unitzenith"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "758775450700480615",
+          "name": "unitquad"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434396106758",
+          "name": "unitpulsar"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434291118100",
+          "name": "unitmace"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434115088385",
+          "name": "unithorizon"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434245243003",
+          "name": "unitgamma"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591433695658006",
+          "name": "unitfortress"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434068820001",
+          "name": "unitflare"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "755591434064887809",
+          "name": "uniteclipse"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "888054896769773600",
+          "name": "flarogus"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      },
+      {
+        "emoji": {
+          "id": "911069840519860254",
+          "name": "uod"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "router.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640607695065579530/router.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640607695065579530",
+        "declared_bytes": 41
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_2bd2c348-cbad-4303-937a-d523ed316405.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640607695065579531/img_2bd2c348-cbad-4303-937a-d523ed316405.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640607695065579531",
+        "width": 32,
+        "height": 32
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
