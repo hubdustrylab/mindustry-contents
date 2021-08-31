@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "882244574876172390",
+    "message_id": "882264208702603264",
+    "url": "https://discord.com/channels/391020510269669376/882244574876172390/882264208702603264",
+    "timestamp_raw": "2021-08-31T14:02:59.031000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2021-08-31T14:02:59.031000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.982641Z",
+    "submitted_at": "2021-08-31T14:02:59.031000Z",
+    "actor": {
+      "kind": "user",
+      "id": "760343580177858620",
+      "name": "maybeblueberry"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:49.029551Z",
+  "revision": {
+    "time": "2021-08-31T14:02:59.031000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "760343580177858620",
+      "name": "maybeblueberry",
+      "basis": "direct_post",
+      "pointer": "/author"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "Mods: Yuria-Shikibe/NewHorizon\nSchematic: (file on bottom)\nPreview:",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "content_type": "video/mp4",
+        "width": 608,
+        "height": 480,
+        "id": "882264205166784572",
+        "filename": "video1.mp4",
+        "size": 7613870,
+        "url": "https://cdn.discordapp.com/attachments/882244574876172390/882264205166784572/video1.mp4"
+      },
+      {
+        "id": "882264205988859904",
+        "filename": "cool_water_idk.msch",
+        "size": 534,
+        "url": "https://cdn.discordapp.com/attachments/882244574876172390/882264205988859904/cool_water_idk.msch"
+      }
+    ],
+    "embeds": [],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "cool_water_idk.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/1",
+        "locator": "https://cdn.discordapp.com/attachments/882244574876172390/882264205988859904/cool_water_idk.msch",
+        "media_channel_id": "882244574876172390",
+        "attachment_id": "882264205988859904",
+        "declared_bytes": 534
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
