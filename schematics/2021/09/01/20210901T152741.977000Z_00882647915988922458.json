@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "882244574876172390",
+    "message_id": "882647915988922458",
+    "url": "https://discord.com/channels/391020510269669376/882244574876172390/882647915988922458",
+    "timestamp_raw": "2021-09-01T15:27:41.977000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2021-09-01T15:27:41.977000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:02:59.255825Z",
+    "submitted_at": "2021-09-01T15:27:41.977000Z",
+    "actor": {
+      "kind": "user",
+      "id": "253865989140119552",
+      "name": "rtomega"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2021-09-01T15:27:41.977000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "253865989140119552",
+      "name": "rtomega",
+      "basis": "direct_post",
+      "pointer": "/author"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "882647915775033344",
+        "filename": "Vault3.msch",
+        "size": 2236,
+        "url": "https://cdn.discordapp.com/attachments/882244574876172390/882647915775033344/Vault3.msch"
+      }
+    ],
+    "embeds": [],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83e\udd26"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "Vault3.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/882244574876172390/882647915775033344/Vault3.msch",
+        "media_channel_id": "882244574876172390",
+        "attachment_id": "882647915775033344",
+        "declared_bytes": 2236
+      },
+      "availability": "stored",
+      "path": "schematics/2021/09/01/20210901T152741.977000Z_00882647915988922458_001_vault3.msch",
+      "bytes": 2236,
+      "sha256": "fb53c2851b5df9109cc5e7c2de7e04ae7bc887e434ea8e7ed8f194caa9bf3542",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "Vault3",
+          "description": "",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 35,
+        "height_tiles": 30,
+        "block_records": 456,
+        "block_counts": {
+          "phase-wall-large": 64,
+          "plastanium-wall": 61,
+          "plastanium-wall-large": 12,
+          "mend-projector": 12,
+          "force-projector": 3,
+          "rtg-generator": 26,
+          "titanium-conveyor": 70,
+          "overflow-gate": 15,
+          "solar-panel": 2,
+          "overdrive-dome": 2,
+          "segment": 22,
+          "repair-turret": 4,
+          "mender": 48,
+          "overdrive-projector": 2,
+          "micro-processor": 4,
+          "betamindy-piston": 3,
+          "underflow-gate": 5,
+          "power-node": 9,
+          "surge-wall": 23,
+          "betamindy-cloner": 5,
+          "phase-conveyor": 17,
+          "betamindy-repair-turret": 4,
+          "power-node-large": 4,
+          "battery": 2,
+          "sorter": 2,
+          "cyclone": 2,
+          "unloader": 14,
+          "core-nucleus": 1,
+          "phase-wall": 13,
+          "thorium-wall": 4,
+          "inverted-sorter": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2021/09/01/20210901T152741.977000Z_00882647915988922458_001_vault3.msch.metadata.json.gz",
+        "bytes": 11555,
+        "sha256": "7d505bd7fc743087543624d40e54ca31bd91fd5fb963327cd27e09875ef4049c"
+      }
+    }
+  ]
+}
