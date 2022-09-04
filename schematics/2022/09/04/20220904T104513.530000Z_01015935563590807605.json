@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "882244574876172390",
+    "message_id": "1015935563590807605",
+    "url": "https://discord.com/channels/391020510269669376/882244574876172390/1015935563590807605",
+    "timestamp_raw": "2022-09-04T10:45:13.530000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2022-09-04T10:45:13.530000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:02:59.865226Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993056714230333521",
+      "name": "Hifumi",
+      "webhook_id": "993056714230333521",
+      "application_id": "414138479627468811"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2022-09-04T10:45:13.530000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": null,
+      "name": "Hifumi",
+      "basis": "relay_name",
+      "pointer": "/embeds/0/author/name"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1015935563972485201",
+        "filename": "Fireatite_Reactor.msch",
+        "size": 1544,
+        "url": "https://cdn.discordapp.com/attachments/882244574876172390/1015935563972485201/Fireatite_Reactor.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "Fireatite Reactor",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:770045449603645492>1353  <:lead:770045449846521856>2054  <:metaglass:770045449834463242>934  <:graphite:770045449729343488>811  <:titanium:770045449822142554>980  <:thorium:770045449612558366>125  <:silicon:770045449696182302>695  <:plastanium:801022400211976243>90",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "Hifumi"
+        },
+        "footer": {
+          "text": "Chaos Arranity Fireatite Reactor.\n\nMod no longer exists"
+        },
+        "image": {
+          "content_type": "image/png",
+          "width": 1056,
+          "height": 448,
+          "url": "https://cdn.discordapp.com/attachments/882244574876172390/1015935564324818964/img_abc1346c-f6f4-4eea-97d9-c864266e4f7b.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude10"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "Fireatite_Reactor.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/882244574876172390/1015935563972485201/Fireatite_Reactor.msch",
+        "media_channel_id": "882244574876172390",
+        "attachment_id": "1015935563972485201",
+        "declared_bytes": 1544
+      },
+      "availability": "stored",
+      "path": "schematics/2022/09/04/20220904T104513.530000Z_01015935563590807605_001_fireatite-reactor.msch",
+      "bytes": 1544,
+      "sha256": "4328c88b5c84544673b07f4fa5e682ec16f33ce9367b0e6738c6ef1f283cf882",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "Fireatite Reactor",
+          "description": "Chaos Arranity Fireatite Reactor.\n\nMod no longer exists",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 33,
+        "height_tiles": 14,
+        "block_records": 183,
+        "block_counts": {
+          "inverted-sorter": 24,
+          "junction": 6,
+          "message": 1,
+          "battery": 25,
+          "vault": 1,
+          "power-node": 14,
+          "sorter": 11,
+          "unloader": 14,
+          "bridge-conveyor": 16,
+          "pyratite-mixer": 5,
+          "blast-mixer": 6,
+          "overdrive-projector": 3,
+          "micro-processor": 1,
+          "water-extractor": 23,
+          "titanium-conveyor": 1,
+          "liquid-router": 5,
+          "bridge-conduit": 24,
+          "liquid-tank": 1,
+          "pulse-conduit": 2
+        }
+      },
+      "detail": {
+        "path": "schematics/2022/09/04/20220904T104513.530000Z_01015935563590807605_001_fireatite-reactor.msch.metadata.json.gz",
+        "bytes": 7436,
+        "sha256": "c752daf7be57b72f829274a927f41e02c2850705d415f843d3e499bc3be1de79"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_abc1346c-f6f4-4eea-97d9-c864266e4f7b.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/882244574876172390/1015935564324818964/img_abc1346c-f6f4-4eea-97d9-c864266e4f7b.png",
+        "media_channel_id": "882244574876172390",
+        "attachment_id": "1015935564324818964",
+        "declared_media_type": "image/png",
+        "width": 1056,
+        "height": 448
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
