@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "882244574876172390",
+    "message_id": "1016039407335264256",
+    "url": "https://discord.com/channels/391020510269669376/882244574876172390/1016039407335264256",
+    "timestamp_raw": "2022-09-04T17:37:51.808000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2022-09-04T17:37:51.808000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:03:00.491121Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993056714230333521",
+      "name": "Fel Cakes",
+      "webhook_id": "993056714230333521",
+      "application_id": "414138479627468811"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2022-09-04T17:37:51.808000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": null,
+      "name": "Fel Cakes",
+      "basis": "relay_name",
+      "pointer": "/embeds/0/author/name"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1016039407444312165",
+        "filename": "plast_belt_multisteel.msch",
+        "size": 1514,
+        "url": "https://cdn.discordapp.com/attachments/882244574876172390/1016039407444312165/plast_belt_multisteel.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "plast belt multisteel",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:770045449603645492>2252  <:lead:770045449846521856>1973  <:metaglass:770045449834463242>672  <:graphite:770045449729343488>1168  <:titanium:770045449822142554>800  <:thorium:770045449612558366>400  <:silicon:770045449696182302>857  <:plastanium:801022400211976243>47",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "Fel Cakes"
+        },
+        "footer": {
+          "text": "50/s lead (2 mass drivers)\n18/s titanium \n24/s thorium\nnote the inverted sorters above the mass drivers they denote their input materials\n36/s output\nstacks twice wth plast belt"
+        },
+        "image": {
+          "content_type": "image/png",
+          "width": 832,
+          "height": 800,
+          "url": "https://cdn.discordapp.com/attachments/882244574876172390/1016039407695953920/img_ee4744af-47e8-4258-a667-e07fcfd7d96f.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udeae"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": "809523059185811549",
+          "name": "battery"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "plast_belt_multisteel.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/882244574876172390/1016039407444312165/plast_belt_multisteel.msch",
+        "media_channel_id": "882244574876172390",
+        "attachment_id": "1016039407444312165",
+        "declared_bytes": 1514
+      },
+      "availability": "stored",
+      "path": "schematics/2022/09/04/20220904T173751.808000Z_01016039407335264256_001_plast-belt-multisteel.msch",
+      "bytes": 1514,
+      "sha256": "8f7ce683ee7f2328cf5bf54dcd3a8b31a9a79f284bab8027d06aefca6c7f7f17",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "plast belt multisteel",
+          "description": "50/s lead (2 mass drivers)\n18/s titanium \n24/s thorium\nnote the inverted sorters above the mass drivers they denote their input materials\n36/s output\nstacks twice wth plast belt",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 26,
+        "height_tiles": 25,
+        "block_records": 237,
+        "block_counts": {
+          "item-source": 1,
+          "bridge-conveyor": 38,
+          "plastanium-conveyor": 47,
+          "battery": 18,
+          "power-node": 9,
+          "kiln": 18,
+          "blast-drill": 4,
+          "sorter": 20,
+          "water-extractor": 16,
+          "liquid-junction": 6,
+          "inverted-sorter": 18,
+          "unloader": 14,
+          "bridge-conduit": 18,
+          "underflow-gate": 4,
+          "overflow-gate": 2,
+          "mass-driver": 2,
+          "item-void": 1,
+          "message": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2022/09/04/20220904T173751.808000Z_01016039407335264256_001_plast-belt-multisteel.msch.metadata.json.gz",
+        "bytes": 7909,
+        "sha256": "7968a695e5bab8355e69d4613844b68ef85261b785d2bd552676959c7a2baccd"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_ee4744af-47e8-4258-a667-e07fcfd7d96f.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/882244574876172390/1016039407695953920/img_ee4744af-47e8-4258-a667-e07fcfd7d96f.png",
+        "media_channel_id": "882244574876172390",
+        "attachment_id": "1016039407695953920",
+        "declared_media_type": "image/png",
+        "width": 832,
+        "height": 800
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
