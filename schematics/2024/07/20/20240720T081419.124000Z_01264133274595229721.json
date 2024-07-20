@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "1264094655247810650",
+    "message_id": "1264133274595229721",
+    "url": "https://discord.com/channels/391020510269669376/1264094655247810650/1264133274595229721",
+    "timestamp_raw": "2024-07-20T08:14:19.124000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2024-07-20T08:14:19.124000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:49.172151Z",
+    "submitted_at": "2024-07-20T08:14:19.124000Z",
+    "actor": {
+      "kind": "user",
+      "id": "1123747508284301432",
+      "name": "matvoxone"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:49.227300Z",
+  "revision": {
+    "time": "2024-07-20T08:14:19.124000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "1123747508284301432",
+      "name": "matvoxone",
+      "basis": "direct_post",
+      "pointer": "/author"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "bXNjaAF4nG1Ta1ATVxS+JNk8JVBJO2iQBBBFOmllQGnaiu1QEGYAedkpIrXLZiFLkt1kd0Mk0HEsDO2IMFXe08oAUmRGEMoooq0PUFDbAYq2pL6o8lAsBSxYtVVI74b6r3Pn7nfOd777nfPjLFgBJHwgIFETDqTvk3nq1FB1MmoDMh3OYDRhZgmKBL6RlMlkJQk2T52C6XGTVBpHZROYOhPKcYYFQiOaiRsZIEhPDc3wBCvMlA2nNQxlpTEcyAgWN71MPBnCSGAUqcFoK0ZkGnHgY7IaWcIMWZQlcnENjcMyw8IyS9HAi8rFaR3NFcw0lYO7SA+ChCyL66ArBBoIDISRBGIraaRQHcylywOQlA4Hr6E6HfE/znJzHg07srjGROyBbzxeTsaYcCNn6s61zjJSNk02yuLAw0RgNMVNgeEMwxlk06hZzxmYacgAIWMjWEwPAFDCCxAxAG4QhQi8gOc6gA+PELgJgICrIRD4HCCAD1U8yAm51IVCTiGCABViCAKxwLnkXAQAXp5z0fnCuQQkLgGP+7i6iVyvBUAKI5exaJkXu3gEyGDk6ite5iX/6UUwcuklMAFwIzjaHdq4yeFYO/d8fTY1w3Bro8Iqwu7utkgObCntNzjONRs6275M0p/tvPDJlfmTbdEHd8WS07s7nN9Xx6u6xpsU/b5V7yXOnn4wymxtKgyy/51y5KfkfYp6VU3DDl6oYu14zeVTA83FG+5mRHYzQWKHt2O/hF8+OXm0hHnW8RlrOZxgn77heLzyfslk38BYDpIfsdpdfMknyxoVdk4T0+xd+g4Swz6PbBDufCWp8ebCfOah8oR4YextXdyvHyHrpVhaof+TudXpMc1L/Nqhmp6fG9YOzQwvtCiiY+VVafbesIL8wNEIgyA0wq6dGOkPDpG1168XPVIU+fCve0eNhgduG5xNOnkBvxqU2mKebw9+4qVF1vhtO/S0SCoJ37H9Xos157sz3bKESHn064H2soPFj2SFyjsX3WdCsgYeNK2rqPVThQbQPRWby3yq9W95GbYuWNZVIdfJ1uNRv/VNPBye+SHl2HblIEKxiDJ9zYYQyS++52+tSvF8GJD3bEog3qtu8w0gP3SvrvAuakXfzW4UBL9aXPn5qkqrKTx58/3hxROJV/rf+Iq5IacD5iwTK4u19cd/P91ZMjV+c1D4ggpTqbYc0dYfTQw+ca1SaQm/9tT5TV1Fa8ilvxxvKyYrrSk2vnOkdNFi3GXtz33zTlWHvWtfnTbMzA7F9bG2y3+gkXT6p8rbteb23mn0as3wrH/an5suFmz0IlVneAXqLi90OvP549qeewN+3dg/eElYdK/Z0R5RN9B+am6M1uoJnF/xRXhE/nR5/FjQ/o8/GEkf9d+UHHh+b9qPx2Zjy+SNUx6H8ye+BXK4ZPC/4ABungfcUDcpAP8CemunkQ==",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "content_type": "image/jpeg",
+        "width": 773,
+        "height": 580,
+        "id": "1264133274549223528",
+        "filename": "Screenshot_2024-07-20-16-13-57-724_io.anuke.mindustry-edit.jpg",
+        "size": 38420,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264133274549223528/Screenshot_2024-07-20-16-13-57-724_io.anuke.mindustry-edit.jpg"
+      }
+    ],
+    "embeds": [],
+    "components": []
+  },
+  "files": [
+    {
+      "role": "preview",
+      "format": "jpg",
+      "original_name": "Screenshot_2024-07-20-16-13-57-724_io.anuke.mindustry-edit.jpg",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264133274549223528/Screenshot_2024-07-20-16-13-57-724_io.anuke.mindustry-edit.jpg",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264133274549223528",
+        "declared_bytes": 38420,
+        "declared_media_type": "image/jpeg",
+        "width": 773,
+        "height": 580
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "schematic.msch",
+      "origin": {
+        "kind": "inline",
+        "pointer": "/content"
+      },
+      "availability": "stored",
+      "path": "schematics/2024/07/20/20240720T081419.124000Z_01264133274595229721_002_schematic.msch",
+      "bytes": 1078,
+      "sha256": "f0c1f4ded26020275dfc7b15fbc094f3422d3b11eaf86ee6558c8fa547110b5e",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "Any T3 Raw",
+          "description": "Community Schem\n\nLogic by Test",
+          "labels": "[T3]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 12,
+        "height_tiles": 9,
+        "block_records": 27,
+        "block_counts": {
+          "power-source": 1,
+          "item-source": 5,
+          "silicon-crucible": 1,
+          "multiplicative-reconstructor": 1,
+          "overdrive-projector": 1,
+          "inverted-sorter": 5,
+          "kiln": 1,
+          "unloader": 3,
+          "power-node": 1,
+          "additive-reconstructor": 1,
+          "pyratite-mixer": 1,
+          "silicon-smelter": 1,
+          "overflow-gate": 1,
+          "micro-processor": 1,
+          "graphite-press": 2,
+          "switch": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2024/07/20/20240720T081419.124000Z_01264133274595229721_002_schematic.msch.metadata.json.gz",
+        "bytes": 2873,
+        "sha256": "012c26ac8382ed6e8c1a120e29027eb5582794adc0d761e48513ec0b643e247d"
+      }
+    }
+  ]
+}
