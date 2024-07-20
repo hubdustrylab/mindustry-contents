@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "1264094655247810650",
+    "message_id": "1264202877703028928",
+    "url": "https://discord.com/channels/391020510269669376/1264094655247810650/1264202877703028928",
+    "timestamp_raw": "2024-07-20T12:50:53.798000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2024-07-20T12:50:53.798000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:03:02.847438Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993056714230333521",
+      "name": "mizu",
+      "webhook_id": "993056714230333521",
+      "application_id": "414138479627468811"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2024-07-20T12:50:53.798000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": null,
+      "name": "mizu",
+      "basis": "relay_name",
+      "pointer": "/embeds/0/author/name"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1264202877933588563",
+        "filename": "turret_controller.msch",
+        "size": 566,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264202877933588563/turret_controller.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "turret controller",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:770045449603645492>65  <:lead:770045449846521856>370  <:graphite:770045449729343488>75  <:thorium:770045449612558366>50  <:silicon:770045449696182302>80",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "mizu"
+        },
+        "footer": {
+          "text": "Enter the arc and shoot, any (up to 20) turrets connected to the logic processor will shoot where you aim. Press the switch to disable the system. Made by @whynotdogie"
+        },
+        "image": {
+          "content_type": "image/png",
+          "width": 128,
+          "height": 64,
+          "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264202878151688253/img_6212f20e-4e71-42ac-a34a-e4193d83e68d.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udeae"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "turret_controller.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264202877933588563/turret_controller.msch",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264202877933588563",
+        "declared_bytes": 566
+      },
+      "availability": "stored",
+      "path": "schematics/2024/07/20/20240720T125053.798000Z_01264202877703028928_001_turret-controller.msch",
+      "bytes": 566,
+      "sha256": "34fc4eb4727eaf88649cc889b52259ddae7bb709f11880f4aff7d229e9167879",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "turret controller",
+          "description": "Enter the arc and shoot, any (up to 20) turrets connected to the logic processor will shoot where you aim. Press the switch to disable the system. Made by @whynotdogie",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 4,
+        "height_tiles": 2,
+        "block_records": 5,
+        "block_counts": {
+          "message": 2,
+          "switch": 1,
+          "arc": 1,
+          "logic-processor": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2024/07/20/20240720T125053.798000Z_01264202877703028928_001_turret-controller.msch.metadata.json.gz",
+        "bytes": 1604,
+        "sha256": "1b9019513fcf7957edcc6204b93d29e8ba8675178b4bde50a2796be464016554"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_6212f20e-4e71-42ac-a34a-e4193d83e68d.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264202878151688253/img_6212f20e-4e71-42ac-a34a-e4193d83e68d.png",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264202878151688253",
+        "declared_media_type": "image/png",
+        "width": 128,
+        "height": 64
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
