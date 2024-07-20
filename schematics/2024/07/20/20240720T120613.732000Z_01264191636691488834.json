@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "1264094655247810650",
+    "message_id": "1264191636691488834",
+    "url": "https://discord.com/channels/391020510269669376/1264094655247810650/1264191636691488834",
+    "timestamp_raw": "2024-07-20T12:06:13.732000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2024-07-20T12:06:13.732000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:03:01.190187Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993056714230333521",
+      "name": "Aliratard",
+      "webhook_id": "993056714230333521",
+      "application_id": "414138479627468811"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2024-07-20T12:06:13.732000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": null,
+      "name": "Aliratard",
+      "basis": "relay_name",
+      "pointer": "/embeds/0/author/name"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1264191637370830938",
+        "filename": "cult_founder.msch",
+        "size": 357,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191637370830938/cult_founder.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "cult founder",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:770045449603645492>429  <:lead:770045449846521856>1228  <:metaglass:770045449834463242>120  <:graphite:770045449729343488>125  <:titanium:770045449822142554>300  <:thorium:770045449612558366>900  <:silicon:770045449696182302>1385  <:plastanium:801022400211976243>30",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "Aliratard"
+        },
+        "image": {
+          "content_type": "image/png",
+          "width": 352,
+          "height": 416,
+          "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191637769424988/img_3ffb7a71-a802-4e83-851f-07e8eb2c4385.png"
+        }
+      }
+    ],
+    "components": []
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "cult_founder.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191637370830938/cult_founder.msch",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264191637370830938",
+        "declared_bytes": 357
+      },
+      "availability": "stored",
+      "path": "schematics/2024/07/20/20240720T120613.732000Z_01264191636691488834_001_cult-founder.msch",
+      "bytes": 357,
+      "sha256": "42fab76f649b402882e9380b32cc1d3dc16061e899a26b208ca9f15e2171dfde",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "cult founder",
+          "description": "",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 11,
+        "height_tiles": 13,
+        "block_records": 32,
+        "block_counts": {
+          "blast-drill": 4,
+          "phase-weaver": 8,
+          "item-source": 1,
+          "sorter": 3,
+          "bridge-conveyor": 6,
+          "water-extractor": 4,
+          "power-node": 2,
+          "unloader": 1,
+          "overdrive-projector": 1,
+          "message": 1,
+          "item-void": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2024/07/20/20240720T120613.732000Z_01264191636691488834_001_cult-founder.msch.metadata.json.gz",
+        "bytes": 2069,
+        "sha256": "0b4adf7ce632aecc2a535b019f3a41d8a9847ef2db6776a8c3c2cbf3b92ae4ca"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_3ffb7a71-a802-4e83-851f-07e8eb2c4385.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191637769424988/img_3ffb7a71-a802-4e83-851f-07e8eb2c4385.png",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264191637769424988",
+        "declared_media_type": "image/png",
+        "width": 352,
+        "height": 416
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
