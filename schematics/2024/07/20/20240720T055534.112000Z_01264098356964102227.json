@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "1264094655247810650",
+    "message_id": "1264098356964102227",
+    "url": "https://discord.com/channels/391020510269669376/1264094655247810650/1264098356964102227",
+    "timestamp_raw": "2024-07-20T05:55:34.112000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2024-07-20T05:55:34.112000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:12:49.036984Z",
+    "submitted_at": "2024-07-20T05:55:34.112000Z",
+    "actor": {
+      "kind": "user",
+      "id": "590547624508260363",
+      "name": "justchris178"
+    }
+  },
+  "archived_at": "2026-11-12T15:12:49.165008Z",
+  "revision": {
+    "time": "2024-07-20T05:55:34.112000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "590547624508260363",
+      "name": "justchris178",
+      "basis": "direct_post",
+      "pointer": "/author"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1264098356305596466",
+        "filename": "Salt_Flats_export_base_v4.msch",
+        "size": 302159,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264098356305596466/Salt_Flats_export_base_v4.msch"
+      },
+      {
+        "content_type": "image/png",
+        "width": 1920,
+        "height": 1080,
+        "id": "1264098356960165888",
+        "filename": "image.png",
+        "size": 1415377,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264098356960165888/image.png"
+      }
+    ],
+    "embeds": [],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc80"
+        },
+        "count": 23,
+        "count_details": {
+          "burst": 0,
+          "normal": 23
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udca5"
+        },
+        "count": 12,
+        "count_details": {
+          "burst": 0,
+          "normal": 12
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "Salt_Flats_export_base_v4.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264098356305596466/Salt_Flats_export_base_v4.msch",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264098356305596466",
+        "declared_bytes": 302159
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "image.png",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/1",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264098356960165888/image.png",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264098356960165888",
+        "declared_bytes": 1415377,
+        "declared_media_type": "image/png",
+        "width": 1920,
+        "height": 1080
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
+      }
+    }
+  ]
+}
