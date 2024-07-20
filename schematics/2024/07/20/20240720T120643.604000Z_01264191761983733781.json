@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "1264094655247810650",
+    "message_id": "1264191761983733781",
+    "url": "https://discord.com/channels/391020510269669376/1264094655247810650/1264191761983733781",
+    "timestamp_raw": "2024-07-20T12:06:43.604000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2024-07-20T12:06:43.604000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:03:02.229306Z",
+    "submitted_at": "2024-07-20T12:06:43.604000Z",
+    "actor": {
+      "kind": "user",
+      "id": "1004983850935533728",
+      "name": "lemayo369"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2024-07-20T12:06:43.604000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "1004983850935533728",
+      "name": "lemayo369",
+      "basis": "direct_post",
+      "pointer": "/author"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "bXNjaAF4nG1TTU/bQBAd4o91NpT+hK6UcxCkJKHcKgpVJGgk2p4sH9b2BizZXrO2Qbn15/XSH1QJmu7uODRpm8ienTczb2ZsP9gH6oBb8kLAm/BWiVV0vnh/xcJhPFlOJtPo/OLTl5v55dePF59hkIo6UVnVZLKE7/OyapszRo/HR2wxv2KVUKwWiSxTeszmRdXmtWBVW1R0fDhhN7LhamX9mh7P2LVI7niZJTzvMLpoG0sYPt5ljYjoyRGzo+zwXra5Lsh53ejitmCxyBv69nCKgSbbgmv6Tve1eClVoRshSuk1TwWLV+xKXPOVBD/nOlJDL4wG8DqRPB8lomxUtmxvBfT1MMXoQWYpHFR3vBYjPcqDWEkFJOZNI9QKXuXZfZulIyVb7cNBrLL01iambdYAreSjUKNSpgL8WiqTQwpR11zz72Owlq1KxAtT5wKcAf729NXDo4PGQ5CgF5jwHvQ6F9Alf1wHy12L6+Kezl2v13N9fbOopvW1cQNHQ7/Waw049t4zrUyGj3Vkty5A7v7LaM6ml7PxPTwT9OyoLrZ/7kZ1kfUZXnYzm3nI4yGPZ2ADEvQCc/OR56kr85HnqVuZ4MoEVyaY+6EbnRhak+Oi8TDVx1SymxpgTr971mAXt3Q/YfMGHDQeBslu0BL0zULGENOEbj+DQLuOuwc/wuFyKWYzHnUC2+jB6AwVauXWwbvyCIdTcaqFG+3oj4bDSRKL5Sz6j8Z0bGz+ne7/ZbUKCoc8XibT0+hv7W2YNpoy05/MpkdRJ66+XssNcNutV0xhAD3PfD7mROzpNzDGEQg=",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1264191761312649289",
+        "filename": "greyCOAL_b5f556CENTRIFUGE.msch",
+        "title": "[grey]COAL [#b5f556]CENTRIFUGE",
+        "size": 608,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191761312649289/greyCOAL_b5f556CENTRIFUGE.msch"
+      },
+      {
+        "content_type": "image/png",
+        "width": 365,
+        "height": 620,
+        "id": "1264191761790537738",
+        "filename": "Screenshot_2024-07-20_200502.png",
+        "title": "Screenshot 2024-07-20 200502",
+        "size": 102216,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191761790537738/Screenshot_2024-07-20_200502.png"
+      }
+    ],
+    "embeds": [],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udeae"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": "770045449615835166",
+          "name": "oil"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u27a1\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "770045449582411817",
+          "name": "coal"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "greyCOAL_b5f556CENTRIFUGE.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191761312649289/greyCOAL_b5f556CENTRIFUGE.msch",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264191761312649289",
+        "declared_bytes": 608,
+        "title": "[grey]COAL [#b5f556]CENTRIFUGE"
+      },
+      "availability": "stored",
+      "path": "schematics/2024/07/20/20240720T120643.604000Z_01264191761983733781_001_greycoal-b5f556centrifuge.msch",
+      "bytes": 608,
+      "sha256": "607c6bf0fd0bff57c33400a4dc20854ebd7c2383242f5c0612a40f418f45376f",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "[grey]COAL [#b5f556]CENTRIFUGES",
+          "description": "Input: \n120 OIL per second\n1 Impulse pump\n2.5 Rotary pumps\n17 Mechanical pumps\n\nOutput: [white]\n40 COAL per second\n1 Full plastanium belt\n3.6 Full titanium belts\n9.5 Full normal belts\n\n\nMade by LeMayo",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 12,
+        "height_tiles": 10,
+        "block_records": 58,
+        "block_counts": {
+          "coal-centrifuge": 16,
+          "item-void": 2,
+          "phase-conveyor": 6,
+          "battery": 11,
+          "liquid-router": 8,
+          "bridge-conduit": 8,
+          "power-node": 1,
+          "sorter": 2,
+          "message": 1,
+          "power-source": 1,
+          "liquid-source": 2
+        }
+      },
+      "detail": {
+        "path": "schematics/2024/07/20/20240720T120643.604000Z_01264191761983733781_001_greycoal-b5f556centrifuge.msch.metadata.json.gz",
+        "bytes": 2602,
+        "sha256": "090a4796d969bc5ea49282681e3907ae6edf52456f4eefa48f750308b866a8ed"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "Screenshot_2024-07-20_200502.png",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/1",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264191761790537738/Screenshot_2024-07-20_200502.png",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264191761790537738",
+        "declared_bytes": 102216,
+        "declared_media_type": "image/png",
+        "title": "Screenshot 2024-07-20 200502",
+        "width": 365,
+        "height": 620
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
