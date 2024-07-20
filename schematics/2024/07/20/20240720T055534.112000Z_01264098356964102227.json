@@ -19,10 +19,10 @@
       "name": "justchris178"
     }
   },
-  "archived_at": "2026-11-12T15:24:33.583954Z",
+  "archived_at": "2026-11-12T15:42:47.085356Z",
   "revision": {
-    "time": "2026-11-12T15:24:33.537311Z",
-    "basis": "observed_at"
+    "time": "2024-07-20T05:55:34.112000Z",
+    "basis": "published_at"
   },
   "attribution": [
     {
@@ -98,16 +98,93 @@
         "attachment_id": "1264098356305596466",
         "declared_bytes": 302159
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "schematics/2024/07/20/20240720T055534.112000Z_01264098356964102227_001_salt-flats-export-base-v4.msch",
+      "bytes": 302159,
+      "sha256": "85a8d547deca6e8604d34186f1d12665493686aa36f6a4fd8a37cda7ca0be870",
       "metadata": {
-        "status": "not_read",
-        "reason": "http_error",
-        "http_status": 403,
-        "signed_url": true,
-        "url_expired": false
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "Salt_Flats_export_base_v4.01",
+          "description": "",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 287,
+        "height_tiles": 271,
+        "block_records": 9553,
+        "block_counts": {
+          "message": 65,
+          "micro-processor": 335,
+          "surge-wall": 7,
+          "switch": 5,
+          "memory-cell": 5,
+          "plastanium-wall": 24,
+          "inverted-sorter": 34,
+          "phase-wall": 16,
+          "water-extractor": 642,
+          "pulse-conduit": 237,
+          "overdrive-dome": 21,
+          "power-node": 350,
+          "conduit": 192,
+          "phase-conduit": 112,
+          "power-node-large": 21,
+          "surge-tower": 34,
+          "logic-processor": 9,
+          "bridge-conduit": 467,
+          "battery": 7,
+          "diode": 1,
+          "liquid-container": 25,
+          "cultivator": 45,
+          "blast-mixer": 36,
+          "phase-conveyor": 109,
+          "pyratite-mixer": 44,
+          "liquid-junction": 130,
+          "liquid-router": 31,
+          "unloader": 864,
+          "sorter": 515,
+          "blast-drill": 59,
+          "overflow-gate": 31,
+          "overdrive-projector": 9,
+          "plastanium-conveyor": 1594,
+          "conveyor": 15,
+          "impact-reactor": 95,
+          "bridge-conveyor": 1238,
+          "cryofluid-mixer": 127,
+          "router": 3,
+          "mass-driver": 777,
+          "underflow-gate": 14,
+          "coal-centrifuge": 6,
+          "oil-extractor": 3,
+          "pneumatic-drill": 10,
+          "launch-pad": 888,
+          "silicon-crucible": 8,
+          "vault": 235,
+          "container": 2,
+          "core-nucleus": 1,
+          "incinerator": 2,
+          "shock-mine": 5,
+          "disassembler": 10,
+          "junction": 9,
+          "melter": 6,
+          "phase-weaver": 8,
+          "plated-conduit": 2,
+          "large-logic-display": 12,
+          "silicon-smelter": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2024/07/20/20240720T055534.112000Z_01264098356964102227_001_salt-flats-export-base-v4.msch.metadata.json.gz",
+        "bytes": 477619,
+        "sha256": "ca970c834043b204c69f04325ac2577bcf648b8cc158267af80ca70d6c8e4748"
       }
     },
     {
