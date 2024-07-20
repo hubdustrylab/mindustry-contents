@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "1264094655247810650",
+    "message_id": "1264228227824615448",
+    "url": "https://discord.com/channels/391020510269669376/1264094655247810650/1264228227824615448",
+    "timestamp_raw": "2024-07-20T14:31:37.738000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2024-07-20T14:31:37.738000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T16:03:03.354827Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993056714230333521",
+      "name": "mizu",
+      "webhook_id": "993056714230333521",
+      "application_id": "414138479627468811"
+    }
+  },
+  "archived_at": "2026-11-12T16:09:49.984159Z",
+  "revision": {
+    "time": "2024-07-20T14:31:37.738000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": null,
+      "name": "mizu",
+      "basis": "relay_name",
+      "pointer": "/embeds/0/author/name"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1264228228323872789",
+        "filename": "most_useful_schematic.msch",
+        "size": 553,
+        "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264228228323872789/most_useful_schematic.msch"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "most useful schematic",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:770045449603645492>620  <:lead:770045449846521856>1280  <:metaglass:770045449834463242>300  <:graphite:770045449729343488>630  <:titanium:770045449822142554>62  <:thorium:770045449612558366>330  <:silicon:770045449696182302>1454  <:plastanium:801022400211976243>60  <:phasefabric:770045449326821413>315  <:surgealloy:770045449700507668>456  <:beryllium:972298068097662987>38  <:tungsten:962490016506994708>1000  <:oxide:973958882563063891>160  <:carbide:973958957909573673>300",
+            "inline": false
+          }
+        ],
+        "author": {
+          "name": "mizu"
+        },
+        "image": {
+          "content_type": "image/png",
+          "width": 480,
+          "height": 416,
+          "url": "https://cdn.discordapp.com/attachments/1264094655247810650/1264228228558618735/img_c9ee6cbc-19a2-428c-8ff6-240b269690f3.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udeae"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc31"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "most_useful_schematic.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264228228323872789/most_useful_schematic.msch",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264228228323872789",
+        "declared_bytes": 553
+      },
+      "availability": "stored",
+      "path": "schematics/2024/07/20/20240720T143137.738000Z_01264228227824615448_001_most-useful-schematic.msch",
+      "bytes": 553,
+      "sha256": "f021af9846ce45a0f2ce3d5586e4e6b804c60528fffe83329bf74229993b6d8e",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "most useful schematic",
+          "description": "",
+          "labels": "[]"
+        },
+        "tag_count": 3,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 15,
+        "height_tiles": 13,
+        "block_records": 19,
+        "block_counts": {
+          "scatter": 1,
+          "repair-turret": 1,
+          "additive-reconstructor": 1,
+          "thorium-reactor": 1,
+          "duo": 1,
+          "repair-point": 1,
+          "impact-reactor": 1,
+          "battery": 1,
+          "beam-node": 1,
+          "door": 1,
+          "surge-wall": 1,
+          "salvo": 1,
+          "combustion-generator": 1,
+          "micro-processor": 1,
+          "neoplasia-reactor": 1,
+          "titanium-wall": 1,
+          "beam-tower": 1,
+          "solar-panel-large": 1,
+          "ground-factory": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2024/07/20/20240720T143137.738000Z_01264228227824615448_001_most-useful-schematic.msch.metadata.json.gz",
+        "bytes": 1945,
+        "sha256": "22512ca3282000062a1867a62460be2116028f6cba9b4461d5858bc62cc2af15"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_c9ee6cbc-19a2-428c-8ff6-240b269690f3.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/1264094655247810650/1264228228558618735/img_c9ee6cbc-19a2-428c-8ff6-240b269690f3.png",
+        "media_channel_id": "1264094655247810650",
+        "attachment_id": "1264228228558618735",
+        "declared_media_type": "image/png",
+        "width": 480,
+        "height": 416
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
