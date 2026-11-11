@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "collection": "maps",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "416719902641225732",
+    "channel_id": "416719902641225732",
+    "message_id": "1570123095606296716",
+    "url": "https://discord.com/channels/391020510269669376/416719902641225732/1570123095606296716",
+    "timestamp_raw": "2026-11-11T17:08:37.469000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2026-11-11T17:08:37.469000Z",
+    "edited_at": null,
+    "submitted_at": null,
+    "observed_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993004450811760754",
+      "name": "GamerGleb",
+      "webhook_id": "993004450811760754"
+    }
+  },
+  "archived_at": "2026-11-12T14:29:41.532597Z",
+  "revision": {
+    "time": "2026-11-11T17:08:37.469000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "756931960852578314",
+      "name": "gamergleb",
+      "basis": "relay_footer",
+      "pointer": "/embeds/0/footer/text"
+    },
+    {
+      "role": "creator",
+      "id": null,
+      "name": "GamerGleb",
+      "basis": "file_tag",
+      "pointer": "/files/0/metadata/tags/author"
+    }
+  ],
+  "message": {
+    "embeds": [
+      {
+        "author": {
+          "name": "gamergleb"
+        },
+        "footer": {
+          "text": "756931960852578314"
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "map",
+      "format": "msav",
+      "original_name": "sector_222_attack.msav",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "attachment_id": "1570123095128150077",
+        "media_channel_id": "416719902641225732",
+        "locator": "https://cdn.discordapp.com/attachments/416719902641225732/1570123095128150077/sector_222_attack.msav",
+        "declared_bytes": 53684
+      },
+      "availability": "stored",
+      "metadata": {
+        "status": "partial",
+        "reader": "mindustry-wire-v1",
+        "format_version": 13,
+        "tags": {
+          "name": "sector 222 attack",
+          "mapname": "Editor Playtesting",
+          "author": "GamerGleb",
+          "description": "i wanted to make an attack sector out of 222, mostly made for my friends but feel free to criticize if you find this on steam.",
+          "build": "160",
+          "saved": "1794416783983",
+          "steamid": "3837939712"
+        },
+        "tag_count": 25,
+        "coverage": {
+          "world_load": "not_run",
+          "simulation": "not_run",
+          "building_specific_state": "opaque",
+          "entity_specific_state": "opaque",
+          "markers": "UBJSON_not_decoded_by_python"
+        },
+        "width_tiles": 440,
+        "height_tiles": 440,
+        "building_centers": 2666,
+        "assets": {},
+        "external_assets": 0
+      },
+      "path": "maps/2026/11/11/20261111T170837.469000Z_01570123095606296716_001_sector-222-attack.msav",
+      "bytes": 53684,
+      "sha256": "b5fe691226562fc945e7241c9ee588adc55b9058934461b1e3a1ba12c26f442e",
+      "detail": {
+        "path": "maps/2026/11/11/20261111T170837.469000Z_01570123095606296716_001_sector-222-attack.msav.metadata.json.gz",
+        "bytes": 269573,
+        "sha256": "a0ffecb9eeda44ca353d0842331912674ea683bd9085ec6218b035131ae9cd34"
+      }
+    }
+  ]
+}
