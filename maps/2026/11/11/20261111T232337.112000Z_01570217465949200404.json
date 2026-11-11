@@ -21,10 +21,10 @@
       "application_id": "414138479627468811"
     }
   },
-  "archived_at": "2026-11-12T15:24:34.078632Z",
+  "archived_at": "2026-11-12T15:26:21.879089Z",
   "revision": {
-    "time": "2026-11-11T23:23:37.112000Z",
-    "basis": "published_at"
+    "basis": "published_at",
+    "time": "2026-11-11T23:23:37.112000Z"
   },
   "attribution": [
     {
@@ -128,16 +128,46 @@
         "attachment_id": "1570217464552362116",
         "declared_bytes": 4180014
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "maps/2026/11/11/20261111T232337.112000Z_01570217465949200404_001_omegus.msav",
+      "bytes": 4180014,
+      "sha256": "d4af6e0b348f5b55e10c16ac160c9cf46441f5565f35096441e3bf56064741e4",
       "metadata": {
-        "status": "not_read",
-        "reason": "http_error",
-        "http_status": 403,
-        "signed_url": true,
-        "url_expired": false
+        "status": "partial",
+        "reader": "mindustry-wire-v1",
+        "format_version": 13,
+        "tags": {
+          "name": "Omega - Asthosus",
+          "mapname": "Omega - Asthosus",
+          "author": "Catser and MrApple",
+          "description": "haha data go patch",
+          "build": "160",
+          "saved": "1794439374951"
+        },
+        "tag_count": 24,
+        "coverage": {
+          "world_load": "not_run",
+          "simulation": "not_run",
+          "building_specific_state": "opaque",
+          "entity_specific_state": "opaque",
+          "markers": "UBJSON_not_decoded_by_python"
+        },
+        "width_tiles": 700,
+        "height_tiles": 700,
+        "building_centers": 147530,
+        "assets": {
+          "patch": 1,
+          "content": 334,
+          "bundle": 8,
+          "image": 1610,
+          "sound": 31
+        },
+        "external_assets": 0
+      },
+      "detail": {
+        "path": "maps/2026/11/11/20261111T232337.112000Z_01570217465949200404_001_omegus.msav.metadata.json.gz",
+        "bytes": 4406656,
+        "sha256": "4ecac072cdc9756829b0e7e1027c4be4ce6d0468694a9f5b16cfa051af11979b"
       }
     },
     {
