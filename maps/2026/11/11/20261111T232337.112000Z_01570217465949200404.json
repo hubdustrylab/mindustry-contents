@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "collection": "maps",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "416719902641225732",
+    "channel_id": "416719902641225732",
+    "message_id": "1570217465949200404",
+    "url": "https://discord.com/channels/391020510269669376/416719902641225732/1570217465949200404",
+    "timestamp_raw": "2026-11-11T23:23:37.112000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2026-11-11T23:23:37.112000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:24:34.035209Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993004450811760754",
+      "name": "\u00e6lphy",
+      "webhook_id": "993004450811760754",
+      "application_id": "414138479627468811"
+    }
+  },
+  "archived_at": "2026-11-12T15:24:34.078632Z",
+  "revision": {
+    "time": "2026-11-11T23:23:37.112000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": "1171823993058242607",
+      "name": "bruhbruhbruh228",
+      "basis": "relay_footer",
+      "pointer": "/embeds/0/footer/text"
+    }
+  ],
+  "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1570217464552362116",
+        "filename": "omegus.msav",
+        "size": 4180014,
+        "url": "https://cdn.discordapp.com/attachments/416719902641225732/1570217464552362116/omegus.msav"
+      }
+    ],
+    "embeds": [
+      {
+        "type": "rich",
+        "title": "Omega - Asthosus",
+        "description": "haha data go patch",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Assets",
+            "value": "1984 assets (1610 images) totaling 4.4 MB",
+            "inline": true
+          }
+        ],
+        "author": {
+          "name": "bruhbruhbruh228"
+        },
+        "footer": {
+          "text": "1171823993058242607"
+        },
+        "image": {
+          "content_type": "image/png",
+          "width": 700,
+          "height": 700,
+          "url": "https://cdn.discordapp.com/attachments/416719902641225732/1570217465361858672/image_omegus.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude2d"
+        },
+        "count": 22,
+        "count_details": {
+          "burst": 0,
+          "normal": 22
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2753"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": "1154083498873868389",
+          "name": "death"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "map",
+      "format": "msav",
+      "original_name": "omegus.msav",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/416719902641225732/1570217464552362116/omegus.msav",
+        "media_channel_id": "416719902641225732",
+        "attachment_id": "1570217464552362116",
+        "declared_bytes": 4180014
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "image_omegus.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/416719902641225732/1570217465361858672/image_omegus.png",
+        "media_channel_id": "416719902641225732",
+        "attachment_id": "1570217465361858672",
+        "declared_media_type": "image/png",
+        "width": 700,
+        "height": 700
+      },
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true,
+        "url_expired": false
+      }
+    }
+  ]
+}
