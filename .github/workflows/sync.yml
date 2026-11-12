@@ -28,17 +28,30 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Check worker access
+        id: access
+        env:
+          WORKER_ACCESS: ${{ secrets.ARCHIVE_WORKER_READ_KEY != '' || secrets.ARCHIVE_WORKER_READ_TOKEN != '' }}
+        run: |
+          echo "ready=$WORKER_ACCESS" >> "$GITHUB_OUTPUT"
+          if [ "$WORKER_ACCESS" != true ]; then
+            echo "Worker access is not configured."
+          fi
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        if: steps.access.outputs.ready == 'true'
         with:
           path: archive
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        if: steps.access.outputs.ready == 'true'
         with:
           repository: ${{ secrets.ARCHIVE_WORKER_REPOSITORY }}
           ref: ${{ vars.ARCHIVE_WORKER_REF }}
           ssh-key: ${{ secrets.ARCHIVE_WORKER_READ_KEY }}
+          token: ${{ secrets.ARCHIVE_WORKER_READ_TOKEN || github.token }}
           persist-credentials: false
           path: worker
       - name: Set up worker
+        if: steps.access.outputs.ready == 'true'
         run: |
           python3 -m venv "$RUNNER_TEMP/archive-env"
           if ! "$RUNNER_TEMP/archive-env/bin/pip" install --quiet --disable-pip-version-check -r worker/requirements.txt > "$RUNNER_TEMP/archive-install.log" 2>&1; then
@@ -46,6 +59,7 @@ jobs:
             exit 1
           fi
       - name: Update archive
+        if: steps.access.outputs.ready == 'true'
         env:
           ARCHIVE_SOURCE_TOKEN: ${{ secrets.ARCHIVE_SOURCE_TOKEN }}
           ARCHIVE_BATCH_LIMIT: ${{ inputs.limit || 250 }}
