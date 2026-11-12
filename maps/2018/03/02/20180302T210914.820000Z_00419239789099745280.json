@@ -7,22 +7,22 @@
     "channel_id": "416719902641225732",
     "message_id": "419239789099745280",
     "url": "https://discord.com/channels/391020510269669376/416719902641225732/419239789099745280",
-    "timestamp_raw": "2018-03-02T21:09:14.820Z",
+    "timestamp_raw": "2018-03-02T21:09:14.820000+00:00",
     "timestamp_basis": "discord",
     "published_at": "2018-03-02T21:09:14.820000Z",
     "edited_at": null,
+    "observed_at": "2026-11-12T15:12:47.779282Z",
     "submitted_at": null,
-    "observed_at": null,
     "actor": {
       "kind": "bot",
-      "id": null,
-      "name": null
+      "id": "414138479627468811",
+      "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T14:29:40.231845Z",
+  "archived_at": "2026-11-12T15:12:47.842474Z",
   "revision": {
-    "time": "2018-03-02T21:09:14.820000Z",
-    "basis": "published_at"
+    "time": "2026-11-12T15:12:47.779282Z",
+    "basis": "observed_at"
   },
   "attribution": [
     {
@@ -30,21 +30,256 @@
       "id": "342860761703383040",
       "name": "Username",
       "basis": "relay_avatar",
-      "pointer": "/embeds/0/author"
+      "pointer": "/embeds/0/author/icon_url"
     }
   ],
   "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
     "attachments": [],
     "embeds": [
       {
+        "type": "rich",
         "title": "Vegetation",
+        "color": 16430178,
         "author": {
           "name": "Username"
+        },
+        "footer": {
+          "text": "You were sailing across the Pacific when a storm led waves that overturned your ship! Your crew and the core of your ship washed up on a lustrous land filled with recorces.\u00a0 Your crew decides it would be best to rebuild your ship with the recorces around, however you feel as if your not alone..."
         },
         "image": {
           "width": 256,
           "height": 256,
           "url": "https://cdn.discordapp.com/attachments/393111111853146112/419226558100799518/Vegetation.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude20"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddec"
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\uddfa"
+        },
+        "count": 19,
+        "count_details": {
+          "burst": 0,
+          "normal": 19
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udde9"
+        },
+        "count": 19,
+        "count_details": {
+          "burst": 0,
+          "normal": 19
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4c"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        }
+      },
+      {
+        "emoji": {
+          "id": "408675126628843530",
+          "name": "GWgsexDerpandan"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc49"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83c\udf46"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": "392358283962220545",
+          "name": "ironwall"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "392345502227628032",
+          "name": "plasmaturret"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udca9"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udcaf"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
+        }
+      },
+      {
+        "emoji": {
+          "id": "392345502294867968",
+          "name": "flakturret"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        }
+      },
+      {
+        "emoji": {
+          "id": "444761150291312641",
+          "name": "titancannon"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude02"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "1\u20e3"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4f"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "632782871052156928",
+          "name": "spectre"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        }
+      },
+      {
+        "emoji": {
+          "id": "597477759689687040",
+          "name": "ohno"
+        },
+        "count": 7,
+        "count_details": {
+          "burst": 0,
+          "normal": 7
         }
       }
     ]
@@ -57,42 +292,19 @@
       "origin": {
         "kind": "embed",
         "pointer": "/embeds/0/image",
-        "attachment_id": "419226558100799518",
-        "media_channel_id": "393111111853146112",
         "locator": "https://cdn.discordapp.com/attachments/393111111853146112/419226558100799518/Vegetation.png",
-        "title": "Vegetation"
+        "media_channel_id": "393111111853146112",
+        "attachment_id": "419226558100799518",
+        "width": 256,
+        "height": 256
       },
-      "availability": "stored",
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
       "metadata": {
-        "status": "parsed",
-        "width_px": 256,
-        "height_px": 256,
-        "legacy_palette": "mindustry-2018",
-        "colors": {
-          "ff0000": 3,
-          "506eb4": 1178,
-          "5ab464": 4795,
-          "988a67": 3665,
-          "575757": 4439,
-          "161616": 130,
-          "323232": 25103,
-          "50965a": 8019,
-          "ed5334": 1639,
-          "292929": 560,
-          "c3a490": 93,
-          "465a96": 876,
-          "252525": 2210,
-          "646464": 12626,
-          "83bc58": 77,
-          "6277bc": 122,
-          "00ff00": 1
-        },
-        "enemy_spawn_pixels": 3,
-        "player_spawn_pixels": 1
-      },
-      "path": "maps/2018/03/02/20180302T210914.820000Z_00419239789099745280_001_vegetation.png",
-      "bytes": 18577,
-      "sha256": "70a0942dda5d435c4f91fe6a74ea90dc1428958f4157a3d264df01b78557afdc"
+        "status": "not_read"
+      }
     }
   ]
 }
