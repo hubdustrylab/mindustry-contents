@@ -11,7 +11,7 @@
     "timestamp_basis": "discord",
     "published_at": "2024-07-20T08:14:19.124000Z",
     "edited_at": null,
-    "observed_at": "2026-11-12T15:12:49.172151Z",
+    "observed_at": "2026-11-12T15:19:22.884148Z",
     "submitted_at": "2024-07-20T08:14:19.124000Z",
     "actor": {
       "kind": "user",
@@ -19,10 +19,10 @@
       "name": "matvoxone"
     }
   },
-  "archived_at": "2026-11-12T15:12:49.227300Z",
+  "archived_at": "2026-11-12T15:19:22.935994Z",
   "revision": {
-    "time": "2024-07-20T08:14:19.124000Z",
-    "basis": "published_at"
+    "time": "2026-11-12T15:19:22.884148Z",
+    "basis": "observed_at"
   },
   "attribution": [
     {
@@ -76,7 +76,10 @@
       "bytes": null,
       "sha256": null,
       "metadata": {
-        "status": "not_read"
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true
       }
     },
     {
