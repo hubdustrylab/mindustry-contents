@@ -1,6 +1,6 @@
 # Mindustry Contents
 
-Maps and schematics from the [Mindustry Discord](https://discord.com/channels/391020510269669376). Start with the [catalog](catalog.jsonl) or browse [maps](maps/) and [schematics](schematics/). See [coverage.json](coverage.json) for the current import status.
+Maps and schematics from the [Mindustry Discord](https://discord.com/channels/391020510269669376). Start with the [catalog](catalog.jsonl) or browse [maps](maps/) and [schematics](schematics/). The history scan starts on 1 January 2020 UTC. See [coverage.json](coverage.json) for import progress.
 
 ## File names
 

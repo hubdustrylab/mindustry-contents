@@ -1,6 +1,7 @@
 {
   "status": "backfill",
   "scope": "Maps, schematics and their accessible public threads",
+  "history_start": "2020-01-01T00:00:00Z",
   "records": 30,
   "stored_files": 25,
   "unavailable_files": 24,
