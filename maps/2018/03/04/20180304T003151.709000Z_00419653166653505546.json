@@ -11,7 +11,7 @@
     "timestamp_basis": "discord",
     "published_at": "2018-03-04T00:31:51.709000Z",
     "edited_at": null,
-    "observed_at": "2026-11-12T15:19:18.908115Z",
+    "observed_at": "2026-11-12T15:24:29.419447Z",
     "submitted_at": null,
     "actor": {
       "kind": "bot",
@@ -19,9 +19,9 @@
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T15:19:18.963625Z",
+  "archived_at": "2026-11-12T15:24:29.446429Z",
   "revision": {
-    "time": "2026-11-12T15:19:18.908115Z",
+    "time": "2026-11-12T15:24:29.419447Z",
     "basis": "observed_at"
   },
   "attribution": [
@@ -306,7 +306,8 @@
         "status": "not_read",
         "reason": "http_error",
         "http_status": 403,
-        "signed_url": true
+        "signed_url": true,
+        "url_expired": false
       }
     }
   ]
