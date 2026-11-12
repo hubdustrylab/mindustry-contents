@@ -19,7 +19,7 @@
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T15:19:20.470067Z",
+  "archived_at": "2026-11-12T15:21:57.296358Z",
   "revision": {
     "time": "2026-11-12T15:19:20.349884Z",
     "basis": "observed_at"
@@ -308,15 +308,35 @@
         "attachment_id": "640606648594858036",
         "declared_bytes": 64
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T174206.921000Z_00640606648594858037_001_literally-a-single-conveyor.msch",
+      "bytes": 64,
+      "sha256": "021ccfff37d6fa964af04edfecd10f2e83bcdbed0e78915d36c1cb86b3d6be92",
       "metadata": {
-        "status": "not_read",
-        "reason": "http_error",
-        "http_status": 403,
-        "signed_url": true
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "literally a single conveyor"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 1,
+        "height_tiles": 1,
+        "block_records": 1,
+        "block_counts": {
+          "conveyor": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T174206.921000Z_00640606648594858037_001_literally-a-single-conveyor.msch.metadata.json.gz",
+        "bytes": 555,
+        "sha256": "1eb2f20238966397647960dc43b1a7a39b0caaf7a291416fe5e6aba2b55506f1"
       }
     },
     {
