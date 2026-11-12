@@ -11,7 +11,7 @@
     "timestamp_basis": "discord",
     "published_at": "2024-07-20T05:55:34.112000Z",
     "edited_at": null,
-    "observed_at": "2026-11-12T15:12:49.036984Z",
+    "observed_at": "2026-11-12T15:19:22.474178Z",
     "submitted_at": "2024-07-20T05:55:34.112000Z",
     "actor": {
       "kind": "user",
@@ -19,10 +19,10 @@
       "name": "justchris178"
     }
   },
-  "archived_at": "2026-11-12T15:12:49.165008Z",
+  "archived_at": "2026-11-12T15:19:22.618598Z",
   "revision": {
-    "time": "2024-07-20T05:55:34.112000Z",
-    "basis": "published_at"
+    "time": "2026-11-12T15:19:22.474178Z",
+    "basis": "observed_at"
   },
   "attribution": [
     {
@@ -103,7 +103,10 @@
       "bytes": null,
       "sha256": null,
       "metadata": {
-        "status": "not_read"
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true
       }
     },
     {
@@ -126,7 +129,10 @@
       "bytes": null,
       "sha256": null,
       "metadata": {
-        "status": "not_read"
+        "status": "not_read",
+        "reason": "http_error",
+        "http_status": 403,
+        "signed_url": true
       }
     }
   ]
