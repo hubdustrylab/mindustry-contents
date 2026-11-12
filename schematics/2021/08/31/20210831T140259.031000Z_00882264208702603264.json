@@ -11,7 +11,7 @@
     "timestamp_basis": "discord",
     "published_at": "2021-08-31T14:02:59.031000Z",
     "edited_at": null,
-    "observed_at": "2026-11-12T15:19:22.216636Z",
+    "observed_at": "2026-11-12T15:24:33.111669Z",
     "submitted_at": "2021-08-31T14:02:59.031000Z",
     "actor": {
       "kind": "user",
@@ -19,9 +19,9 @@
       "name": "maybeblueberry"
     }
   },
-  "archived_at": "2026-11-12T15:19:22.272373Z",
+  "archived_at": "2026-11-12T15:24:33.129436Z",
   "revision": {
-    "time": "2026-11-12T15:19:22.216636Z",
+    "time": "2026-11-12T15:24:33.111669Z",
     "basis": "observed_at"
   },
   "attribution": [
@@ -95,7 +95,8 @@
         "status": "not_read",
         "reason": "http_error",
         "http_status": 403,
-        "signed_url": true
+        "signed_url": true,
+        "url_expired": false
       }
     }
   ]
