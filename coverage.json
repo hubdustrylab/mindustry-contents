@@ -1,9 +1,9 @@
 {
   "status": "backfill",
   "scope": "Maps, schematics and their accessible public threads",
-  "records": 18,
-  "stored_files": 13,
-  "unavailable_files": 13,
+  "records": 30,
+  "stored_files": 25,
+  "unavailable_files": 24,
   "next_channel": 1,
   "pending": {},
   "channels": {
@@ -15,21 +15,21 @@
     },
     "640604827344306207": {
       "root_channel_id": "640604827344306207",
-      "last_message_id": "640610242798944269",
+      "last_message_id": "640612358644957196",
       "history_complete": false,
-      "scanned": 5
+      "scanned": 10
     },
     "882244574876172390": {
       "root_channel_id": "640604827344306207",
-      "last_message_id": "882483737378553896",
+      "last_message_id": "1016039407335264256",
       "history_complete": false,
-      "scanned": 5
+      "scanned": 10
     },
     "1264094655247810650": {
       "root_channel_id": "640604827344306207",
-      "last_message_id": "1264149115210829866",
+      "last_message_id": "1264228227824615448",
       "history_complete": false,
-      "scanned": 5
+      "scanned": 10
     }
   },
   "thread_discovery": "partial"
