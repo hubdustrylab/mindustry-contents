@@ -1,9 +1,9 @@
 {
   "status": "backfill",
   "scope": "Maps, schematics and their accessible public threads",
-  "records": 17,
-  "stored_files": 7,
-  "unavailable_files": 18,
+  "records": 18,
+  "stored_files": 13,
+  "unavailable_files": 13,
   "next_channel": 1,
   "pending": {},
   "channels": {
