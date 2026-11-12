@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "1570422910110400512",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/1570422910110400512",
+    "timestamp_raw": "2026-11-12T12:59:58.817000+00:00",
+    "timestamp_basis": "discord",
+    "published_at": "2026-11-12T12:59:58.817000Z",
+    "edited_at": null,
+    "submitted_at": null,
+    "observed_at": null,
+    "actor": {
+      "kind": "webhook",
+      "id": "993056714230333521",
+      "name": "abdullah",
+      "webhook_id": "993056714230333521"
+    }
+  },
+  "archived_at": "2026-11-12T14:29:41.938319Z",
+  "revision": {
+    "time": "2026-11-12T12:59:58.817000Z",
+    "basis": "published_at"
+  },
+  "attribution": [
+    {
+      "role": "submitter",
+      "id": null,
+      "name": "abdullah",
+      "basis": "relay_name",
+      "pointer": "/embeds/0/author/name"
+    }
+  ],
+  "message": {
+    "embeds": [
+      {
+        "author": {
+          "name": "abdullah"
+        }
+      }
+    ],
+    "preview_observed": true
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "percentagepower.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "attachment_id": "1570422909631991908",
+        "media_channel_id": "640604827344306207",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/1570422909631991908/percentagepower.msch",
+        "declared_bytes": 302
+      },
+      "availability": "stored",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "percentagepower",
+          "description": "",
+          "labels": "[]"
+        },
+        "tag_count": 4,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 3,
+        "height_tiles": 1,
+        "block_records": 3,
+        "block_counts": {
+          "power-node": 1,
+          "micro-processor": 1,
+          "message": 1
+        }
+      },
+      "path": "schematics/2026/11/12/20261112T125958.817000Z_01570422910110400512_001_percentagepower.msch",
+      "bytes": 302,
+      "sha256": "fff2c37c17badb8dcb78374d71af47a999de09e4e8395d6666238bb27bfbab38",
+      "detail": {
+        "path": "schematics/2026/11/12/20261112T125958.817000Z_01570422910110400512_001_percentagepower.msch.metadata.json.gz",
+        "bytes": 1320,
+        "sha256": "4b1caceaae12b22d5ad6c03ee509be3a8d0f376fc967c3fde931f2b9c901cc3d"
+      }
+    }
+  ]
+}
