@@ -51,7 +51,6 @@ def commit_epoch(value):
 def post_time(message_id, timestamp):
     from_id = discord_time(message_id)
     if timestamp is None:
-        require(from_id.year < 2026, "A Discord timestamp is required for posts from 2026")
         return utc(from_id), "message_id"
     from_post = instant(timestamp)
     if max(from_id.year, from_post.year) >= 2026:
