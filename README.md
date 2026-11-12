@@ -17,7 +17,7 @@ The prefix contains the UTC timestamp and the message ID padded to 20 digits. A 
 
 Discord transport identity, submitter claims and file author claims have separate fields. A missing identity or time is null. Source text keeps its original language.
 
-Data commits use the Discord post time for both Git dates. Git stores whole seconds. The record preserves the source timestamp and its fractional part. An edit uses its observed source edit time. Maintenance commits use their actual time.
+Data commits use the Discord post time for both Git dates. Git stores whole seconds. The record preserves the source timestamp and its fractional part. Posts from 2026 onward must match the message ID at millisecond precision. An edit uses its observed source edit time. Maintenance commits use their actual time.
 
 Run the check command to verify the catalog and file hashes.
 
