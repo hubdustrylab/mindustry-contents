@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "collection": "schematics",
+  "source": {
+    "guild_id": "391020510269669376",
+    "root_channel_id": "640604827344306207",
+    "channel_id": "640604827344306207",
+    "message_id": "1570273534511415457",
+    "url": "https://discord.com/channels/391020510269669376/640604827344306207/1570273534511415457",
+    "timestamp_raw": null,
+    "timestamp_basis": "message_id",
+    "published_at": "2026-11-12T03:06:24.899000Z",
+    "edited_at": null,
+    "observed_at": "2026-11-12T15:42:47.085356Z",
+    "submitted_at": null,
+    "actor": {
+      "kind": "unknown",
+      "id": null,
+      "name": "Chriss"
+    }
+  },
+  "attribution": [],
+  "message": {
+    "attachments": [
+      {
+        "id": "1570273534029205595",
+        "filename": "impact_codefix.msch",
+        "size": 1492,
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/1570273534029205595/impact_codefix.msch"
+      }
+    ]
+  },
+  "files": [
+    {
+      "role": "schematic",
+      "format": "msch",
+      "original_name": "impact_codefix.msch",
+      "origin": {
+        "kind": "attachment",
+        "pointer": "/attachments/0",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/1570273534029205595/impact_codefix.msch",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "1570273534029205595"
+      },
+      "path": "schematics/2026/11/12/20261112T030624.899000Z_01570273534511415457_001_impact-codefix.msch",
+      "bytes": 1492,
+      "sha256": "ae7c89972ef28f5b7078dc0785376d05a789d5ab130a88c844d05cf8cb8e5331",
+      "availability": "stored",
+      "metadata": {
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 1,
+        "tags": {
+          "name": "impact codefix",
+          "description": "generates 69k power(nice) and can instantly shut off, uses new code that lets it turn on based on net power(will only progress if above 1825)",
+          "labels": "[]"
+        },
+        "tag_count": 4,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_applicable",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 12,
+        "height_tiles": 18,
+        "block_records": 87,
+        "block_counts": {
+          "impact-reactor": 5,
+          "phase-conveyor": 4,
+          "unloader": 8,
+          "bridge-conduit": 15,
+          "liquid-container": 1,
+          "landing-pad": 1,
+          "router": 1,
+          "container": 1,
+          "bridge-conveyor": 6,
+          "inverted-sorter": 3,
+          "liquid-router": 4,
+          "power-node": 4,
+          "micro-processor": 1,
+          "water-extractor": 2,
+          "cryofluid-mixer": 7,
+          "overdrive-projector": 1,
+          "battery": 9,
+          "liquid-junction": 5,
+          "conduit": 2,
+          "message": 1,
+          "logic-processor": 1,
+          "switch": 1,
+          "phase-conduit": 2,
+          "junction": 1,
+          "sorter": 1
+        }
+      },
+      "detail": {
+        "path": "schematics/2026/11/12/20261112T030624.899000Z_01570273534511415457_001_impact-codefix.msch.metadata.json.gz",
+        "bytes": 5169,
+        "sha256": "618f5a8f8e3d9df646afe0db255c4cd17352253d92ab70f619574e63bed6bb50"
+      }
+    }
+  ],
+  "archived_at": "2026-11-12T15:42:47.085356Z",
+  "revision": {
+    "time": "2026-11-12T03:06:24.899000Z",
+    "basis": "published_at"
+  }
+}
