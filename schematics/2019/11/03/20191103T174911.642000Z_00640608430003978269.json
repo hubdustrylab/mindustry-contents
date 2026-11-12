@@ -19,7 +19,7 @@
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T15:12:48.722488Z",
+  "archived_at": "2026-11-12T15:16:27.632660Z",
   "revision": {
     "time": "2026-11-12T15:12:48.606526Z",
     "basis": "observed_at"
@@ -182,17 +182,57 @@
       "origin": {
         "kind": "attachment",
         "pointer": "/attachments/0",
-        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978268/spectr_opwall.msch",
-        "media_channel_id": "640604827344306207",
         "attachment_id": "640608430003978268",
+        "media_channel_id": "640604827344306207",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978268/spectr_opwall.msch",
         "declared_bytes": 456
       },
-      "availability": "unavailable",
-      "path": null,
-      "bytes": null,
-      "sha256": null,
+      "availability": "stored",
+      "path": "schematics/2019/11/03/20191103T174911.642000Z_00640608430003978269_001_spectr-opwall.msch",
+      "bytes": 456,
+      "sha256": "10e3a433d036313484dfd42044bb73761b94d4d5792048937ff12703c62649bd",
       "metadata": {
-        "status": "not_read"
+        "status": "parsed",
+        "reader": "mindustry-wire-v1",
+        "format_version": 0,
+        "tags": {
+          "name": "spectr opwall"
+        },
+        "tag_count": 1,
+        "coverage": {
+          "wire_records": "complete",
+          "legacy_config_semantics": "not_resolved",
+          "game_content_resolution": "not_run",
+          "simulation": "not_run"
+        },
+        "width_tiles": 24,
+        "height_tiles": 12,
+        "block_records": 68,
+        "block_counts": {
+          "bridge-conduit": 2,
+          "titanium-conveyor": 5,
+          "spectre": 8,
+          "router": 2,
+          "phase-conveyor": 8,
+          "power-node": 3,
+          "bridge-conveyor": 4,
+          "pulse-conduit": 4,
+          "liquid-tank": 2,
+          "phase-conduit": 2,
+          "mend-projector": 3,
+          "repair-point": 1,
+          "armored-conveyor": 4,
+          "overdrive-projector": 1,
+          "plastanium-wall-large": 5,
+          "plastanium-wall": 2,
+          "surge-wall-large": 6,
+          "phase-wall-large": 6
+        }
+      },
+      "detail": {
+        "path": "schematics/2019/11/03/20191103T174911.642000Z_00640608430003978269_001_spectr-opwall.msch.metadata.json.gz",
+        "bytes": 1648,
+        "sha256": "6907fde68425b09fb9368a37c2f06248f4ecc279a6209cab5a95a51a9381959e"
       }
     },
     {
