@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       limit:
-        description: Maximum messages to read per run
+        description: Maximum new messages to read. Use zero to retry pending files.
         type: number
         default: 250
       check_only:
@@ -62,7 +62,7 @@ jobs:
         if: steps.access.outputs.ready == 'true'
         env:
           ARCHIVE_SOURCE_TOKEN: ${{ secrets.ARCHIVE_SOURCE_TOKEN }}
-          ARCHIVE_BATCH_LIMIT: ${{ inputs.limit || 250 }}
+          ARCHIVE_BATCH_LIMIT: ${{ github.event_name == 'workflow_dispatch' && format('{0}', inputs.limit) || '250' }}
           ARCHIVE_CHECK_ONLY: ${{ inputs.check_only }}
         run: |
           "$RUNNER_TEMP/archive-env/bin/python" worker/run.py --archive "$GITHUB_WORKSPACE/archive"
