@@ -1,0 +1,465 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mindustry content record",
+  "description": "One Discord message revision and the files it contains.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "collection",
+    "source",
+    "archived_at",
+    "revision",
+    "attribution",
+    "message",
+    "files"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "collection": {
+      "enum": [
+        "maps",
+        "schematics"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "guild_id",
+        "root_channel_id",
+        "channel_id",
+        "message_id",
+        "url",
+        "timestamp_raw",
+        "timestamp_basis",
+        "published_at",
+        "edited_at",
+        "submitted_at",
+        "observed_at",
+        "actor"
+      ],
+      "properties": {
+        "guild_id": {
+          "const": "391020510269669376"
+        },
+        "root_channel_id": {
+          "enum": [
+            "416719902641225732",
+            "640604827344306207"
+          ]
+        },
+        "channel_id": {
+          "type": "string",
+          "pattern": "^[1-9][0-9]{0,19}$"
+        },
+        "message_id": {
+          "type": "string",
+          "pattern": "^[1-9][0-9]{0,19}$"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "timestamp_raw": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "timestamp_basis": {
+          "enum": [
+            "discord",
+            "message_id"
+          ]
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "edited_at": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "submitted_at": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "observed_at": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "actor": {
+          "type": "object",
+          "required": [
+            "kind",
+            "id",
+            "name"
+          ],
+          "properties": {
+            "kind": {
+              "enum": [
+                "webhook",
+                "bot",
+                "user",
+                "system",
+                "unknown"
+              ]
+            },
+            "id": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "pattern": "^[1-9][0-9]{0,19}$"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "name": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "webhook_id": {
+              "type": "string",
+              "pattern": "^[1-9][0-9]{0,19}$"
+            },
+            "application_id": {
+              "type": "string",
+              "pattern": "^[1-9][0-9]{0,19}$"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "archived_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "revision": {
+      "type": "object",
+      "required": [
+        "basis",
+        "time"
+      ],
+      "properties": {
+        "basis": {
+          "enum": [
+            "published_at",
+            "edited_at",
+            "observed_at"
+          ]
+        },
+        "time": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "additionalProperties": false
+    },
+    "attribution": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "role",
+          "id",
+          "name",
+          "basis",
+          "pointer"
+        ],
+        "properties": {
+          "role": {
+            "enum": [
+              "submitter",
+              "creator"
+            ]
+          },
+          "id": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[1-9][0-9]{0,19}$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "basis": {
+            "enum": [
+              "direct_post",
+              "relay_footer",
+              "relay_avatar",
+              "relay_name",
+              "file_tag"
+            ]
+          },
+          "pointer": {
+            "type": "string",
+            "pattern": "^/"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "message": {
+      "type": "object"
+    },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "role",
+          "format",
+          "original_name",
+          "origin",
+          "availability",
+          "path",
+          "bytes",
+          "sha256",
+          "metadata"
+        ],
+        "properties": {
+          "role": {
+            "enum": [
+              "map",
+              "schematic",
+              "preview"
+            ]
+          },
+          "format": {
+            "enum": [
+              "msav",
+              "msch",
+              "png",
+              "jpg",
+              "gif",
+              "webp"
+            ]
+          },
+          "original_name": {
+            "type": "string"
+          },
+          "origin": {
+            "type": "object",
+            "required": [
+              "kind",
+              "pointer"
+            ],
+            "properties": {
+              "kind": {
+                "enum": [
+                  "attachment",
+                  "embed",
+                  "component",
+                  "forward",
+                  "inline"
+                ]
+              },
+              "pointer": {
+                "type": "string",
+                "pattern": "^/"
+              },
+              "attachment_id": {
+                "type": "string",
+                "pattern": "^[1-9][0-9]{0,19}$"
+              },
+              "media_channel_id": {
+                "type": "string",
+                "pattern": "^[1-9][0-9]{0,19}$"
+              },
+              "locator": {
+                "type": "string",
+                "format": "uri"
+              },
+              "declared_bytes": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "declared_media_type": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "width": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "height": {
+                "type": "integer",
+                "minimum": 0
+              }
+            },
+            "additionalProperties": false
+          },
+          "availability": {
+            "enum": [
+              "stored",
+              "unavailable",
+              "pending",
+              "unsupported"
+            ]
+          },
+          "path": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "bytes": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": 0
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "sha256": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "metadata": {
+            "type": "object"
+          },
+          "detail": {
+            "type": "object",
+            "required": [
+              "path",
+              "bytes",
+              "sha256"
+            ],
+            "properties": {
+              "path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "bytes": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false,
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "availability": {
+                  "const": "stored"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "bytes": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "sha256": {
+                  "type": "string",
+                  "pattern": "^[0-9a-f]{64}$"
+                }
+              }
+            },
+            "else": {
+              "properties": {
+                "path": {
+                  "type": "null"
+                },
+                "bytes": {
+                  "type": "null"
+                },
+                "sha256": {
+                  "type": "null"
+                }
+              },
+              "not": {
+                "required": [
+                  "detail"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "minItems": 1
+    }
+  },
+  "additionalProperties": false
+}

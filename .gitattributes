@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.msav binary
+*.msch binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.gif binary
+*.gz binary

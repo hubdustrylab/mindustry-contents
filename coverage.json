@@ -1,0 +1,23 @@
+{
+  "status": "sample",
+  "scope": "Maps, schematics and their accessible public threads",
+  "records": 0,
+  "stored_files": 0,
+  "unavailable_files": 0,
+  "next_channel": 0,
+  "pending": {},
+  "channels": {
+    "416719902641225732": {
+      "root_channel_id": "416719902641225732",
+      "last_message_id": null,
+      "history_complete": false,
+      "scanned": 0
+    },
+    "640604827344306207": {
+      "root_channel_id": "640604827344306207",
+      "last_message_id": null,
+      "history_complete": false,
+      "scanned": 0
+    }
+  }
+}

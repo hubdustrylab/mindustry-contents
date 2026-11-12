@@ -1,0 +1,54 @@
+name: Sync archive
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Maximum messages to read per run
+        type: number
+        default: 250
+      check_only:
+        description: Check the worker without reading the source
+        type: boolean
+        default: false
+
+concurrency:
+  group: archive-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.repository == 'hubdustrylab/mindustry-contents' && github.ref == 'refs/heads/main'
+    environment: archive-sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          path: archive
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          repository: ${{ secrets.ARCHIVE_WORKER_REPOSITORY }}
+          ref: ${{ vars.ARCHIVE_WORKER_REF }}
+          ssh-key: ${{ secrets.ARCHIVE_WORKER_READ_KEY }}
+          persist-credentials: false
+          path: worker
+      - name: Set up worker
+        run: |
+          python3 -m venv "$RUNNER_TEMP/archive-env"
+          if ! "$RUNNER_TEMP/archive-env/bin/pip" install --quiet --disable-pip-version-check -r worker/requirements.txt > "$RUNNER_TEMP/archive-install.log" 2>&1; then
+            echo "::error::Worker dependencies could not be installed."
+            exit 1
+          fi
+      - name: Update archive
+        env:
+          ARCHIVE_SOURCE_TOKEN: ${{ secrets.ARCHIVE_SOURCE_TOKEN }}
+          ARCHIVE_BATCH_LIMIT: ${{ inputs.limit || 250 }}
+          ARCHIVE_CHECK_ONLY: ${{ inputs.check_only }}
+        run: |
+          "$RUNNER_TEMP/archive-env/bin/python" worker/run.py --archive "$GITHUB_WORKSPACE/archive"
