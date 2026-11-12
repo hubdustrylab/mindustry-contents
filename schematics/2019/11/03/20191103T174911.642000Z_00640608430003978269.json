@@ -7,22 +7,22 @@
     "channel_id": "640604827344306207",
     "message_id": "640608430003978269",
     "url": "https://discord.com/channels/391020510269669376/640604827344306207/640608430003978269",
-    "timestamp_raw": "2019-11-03T17:49:11.642Z",
+    "timestamp_raw": "2019-11-03T17:49:11.642000+00:00",
     "timestamp_basis": "discord",
     "published_at": "2019-11-03T17:49:11.642000Z",
     "edited_at": null,
+    "observed_at": "2026-11-12T15:12:48.606526Z",
     "submitted_at": null,
-    "observed_at": null,
     "actor": {
       "kind": "bot",
       "id": "414138479627468811",
       "name": "Ranai"
     }
   },
-  "archived_at": "2026-11-12T14:29:40.616400Z",
+  "archived_at": "2026-11-12T15:12:48.722488Z",
   "revision": {
-    "time": "2019-11-03T17:49:11.642000Z",
-    "basis": "published_at"
+    "time": "2026-11-12T15:12:48.606526Z",
+    "basis": "observed_at"
   },
   "attribution": [
     {
@@ -30,14 +30,146 @@
       "id": "243119545500434432",
       "name": "Brachydios",
       "basis": "relay_avatar",
-      "pointer": "/embeds/0/author"
+      "pointer": "/embeds/0/author/url"
     }
   ],
   "message": {
+    "type": 0,
+    "content": "",
+    "flags": 0,
+    "pinned": false,
+    "tts": false,
+    "mention_everyone": false,
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "640608430003978268",
+        "filename": "spectr_opwall.msch",
+        "size": 456,
+        "url": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978268/spectr_opwall.msch"
+      }
+    ],
     "embeds": [
       {
+        "type": "rich",
+        "title": "spectr opwall",
+        "color": 16430178,
+        "fields": [
+          {
+            "name": "Requirements",
+            "value": "<:copper:597478222141325362>2845  <:lead:597478221939867648>525  <:metaglass:640604427807359006>158  <:graphite:632785243170144296>2488  <:titanium:632785242851377163>233  <:thorium:597478221793067020>2004  <:silicon:597478221864501273>280  <:plastanium:632785242805239810>1540  <:phasefabric:632785242809303071>194  <:surgealloy:632785242788200461>2144",
+            "inline": false
+          }
+        ],
         "author": {
           "name": "Brachydios"
+        },
+        "image": {
+          "width": 768,
+          "height": 384,
+          "url": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978267/img_08ebd0ac-9182-4f0c-a6ff-48c6679429c0.png"
+        }
+      }
+    ],
+    "components": [],
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4e"
+        },
+        "count": 11,
+        "count_details": {
+          "burst": 0,
+          "normal": 11
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc40"
+        },
+        "count": 8,
+        "count_details": {
+          "burst": 0,
+          "normal": 8
+        }
+      },
+      {
+        "emoji": {
+          "id": "405044014497136643",
+          "name": "GWskaipSmile"
+        },
+        "count": 4,
+        "count_details": {
+          "burst": 0,
+          "normal": 4
+        }
+      },
+      {
+        "emoji": {
+          "id": "597477759689687040",
+          "name": "ohno"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        }
+      },
+      {
+        "emoji": {
+          "id": "852240940085280789",
+          "name": "unitcrawler"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc1b"
+        },
+        "count": 3,
+        "count_details": {
+          "burst": 0,
+          "normal": 3
+        }
+      },
+      {
+        "emoji": {
+          "id": "960718186112757800",
+          "name": "alphaaaaaaaa"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        }
+      },
+      {
+        "emoji": {
+          "id": "1134955384839352321",
+          "name": "ranaismug"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
         }
       }
     ]
@@ -50,56 +182,38 @@
       "origin": {
         "kind": "attachment",
         "pointer": "/attachments/0",
-        "attachment_id": "640608430003978268",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978268/spectr_opwall.msch",
         "media_channel_id": "640604827344306207",
-        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978268/spectr_opwall.msch"
+        "attachment_id": "640608430003978268",
+        "declared_bytes": 456
       },
-      "availability": "stored",
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
       "metadata": {
-        "status": "parsed",
-        "reader": "mindustry-wire-v1",
-        "format_version": 0,
-        "tags": {
-          "name": "spectr opwall"
-        },
-        "tag_count": 1,
-        "coverage": {
-          "wire_records": "complete",
-          "legacy_config_semantics": "not_resolved",
-          "game_content_resolution": "not_run",
-          "simulation": "not_run"
-        },
-        "width_tiles": 24,
-        "height_tiles": 12,
-        "block_records": 68,
-        "block_counts": {
-          "bridge-conduit": 2,
-          "titanium-conveyor": 5,
-          "spectre": 8,
-          "router": 2,
-          "phase-conveyor": 8,
-          "power-node": 3,
-          "bridge-conveyor": 4,
-          "pulse-conduit": 4,
-          "liquid-tank": 2,
-          "phase-conduit": 2,
-          "mend-projector": 3,
-          "repair-point": 1,
-          "armored-conveyor": 4,
-          "overdrive-projector": 1,
-          "plastanium-wall-large": 5,
-          "plastanium-wall": 2,
-          "surge-wall-large": 6,
-          "phase-wall-large": 6
-        }
+        "status": "not_read"
+      }
+    },
+    {
+      "role": "preview",
+      "format": "png",
+      "original_name": "img_08ebd0ac-9182-4f0c-a6ff-48c6679429c0.png",
+      "origin": {
+        "kind": "embed",
+        "pointer": "/embeds/0/image",
+        "locator": "https://cdn.discordapp.com/attachments/640604827344306207/640608430003978267/img_08ebd0ac-9182-4f0c-a6ff-48c6679429c0.png",
+        "media_channel_id": "640604827344306207",
+        "attachment_id": "640608430003978267",
+        "width": 768,
+        "height": 384
       },
-      "path": "schematics/2019/11/03/20191103T174911.642000Z_00640608430003978269_001_spectr-opwall.msch",
-      "bytes": 456,
-      "sha256": "10e3a433d036313484dfd42044bb73761b94d4d5792048937ff12703c62649bd",
-      "detail": {
-        "path": "schematics/2019/11/03/20191103T174911.642000Z_00640608430003978269_001_spectr-opwall.msch.metadata.json.gz",
-        "bytes": 1648,
-        "sha256": "6907fde68425b09fb9368a37c2f06248f4ecc279a6209cab5a95a51a9381959e"
+      "availability": "unavailable",
+      "path": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata": {
+        "status": "not_read"
       }
     }
   ]
